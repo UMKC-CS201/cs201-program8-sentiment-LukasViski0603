@@ -18,9 +18,29 @@ void loadSentiment(vector<wordList>& sentList,
     vector<wordList>& negList) {
 
     //open sentiment.txt
-    //add the word to the sentList vector
-    //if positive enough add to posList
-    //if negative enough add to negList
+    ifstream inFile;
+    inFile.open("sentiment.txt");
+
+    if (!inFile.is_open()){
+        cout << "Unable to open file\n"; 
+        return;
+    }
+
+    wordList tempWord;
+    string inRecord;
+
+    getline(inFile, inRecord); 
+    while (inFile.good()) {
+        int pos = inRecord.find(",");
+        tempWord.word = inRecord.substr(0, pos); 
+        tempWord.value = stod(inRecord.substr(pos + 1)); 
+        sentList.push_back(tempWord);
+        
+        //add the word to the sentList vector
+        //if positive enough add to posList
+        //if negative enough add to negList
+    }
+    
     //close sentiment.txt
 
     cout << "CODE THIS\n";
