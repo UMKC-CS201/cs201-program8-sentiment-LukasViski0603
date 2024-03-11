@@ -5,6 +5,10 @@
 #include <fstream>
 #include <vector>
 #include <iomanip>
+#include <algorithm>
+#include <cstdlib>
+#include <ctime>
+#include <sstream>
 
 using namespace std;
 
@@ -20,12 +24,11 @@ struct replaceList {
     double newValue;
 };
 
-void   loadSentiment(vector<wordList>& sentList, vector<wordList>& posList, vector<wordList>& negList);
+void loadSentiment(vector<wordList>& sentList, vector<wordList>& posList, vector<wordList>& negList);
 //PRE:   accepts an empty set of 3 <wordList> vectors
 //POST:  loads all three vectors with data from sentiment.txt
 
-void   processFile(ifstream& inFile, ofstream& outFile, string fileName,
-                   vector<wordList>& words, vector<wordList>& posList, vector<wordList>& negList);
+void processFile(ifstream& inFile, ofstream& outFile, const string& fileName, vector<wordList>& words, vector<wordList>& posList, vector<wordList>& negList);
 //PRE:   accepts the inFile (the current review file)  opened and verified in main 
 //       the output file name (where all reviews are posted) opened and verified in main
 //       a string containing the fileName (for printing to the output file)

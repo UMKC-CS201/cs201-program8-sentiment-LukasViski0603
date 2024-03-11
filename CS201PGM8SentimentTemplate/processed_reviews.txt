@@ -1,0 +1,2327 @@
+PROCESSING FILE: review1.txt
+FORMATTED REVIEW: 
+This was an amazing restaurant! The pizza crust was delicious, and I loved the
+pasta. The atmosphere was wonderful and enchanting.
+
+ORIGINAL SENTIMENT: 7.95
+
+WORDS UPDATED TO BE MORE POSITIVE OR NEGATIVE:
+Original       Sentiment Replacement    Sentiment
+---------------------------------------------------------------
+amazing        1.26      crude          -1.85     
+restaurant     0.25      rotten         -1.78     
+pizza          0.13      lingering      -1.69     
+delicious      2.20      affected       -1.27     
+loved          1.21      dire           -2.62     
+pasta          0.07      drank          -1.36     
+atmosphere     0.07      frightened     -2.15     
+wonderful      2.76      painful        -3.69     
+
+TOTALS: 7.95 -16.41
+
+
+UPDATED REVIEW (MORE NEGATIVE/POSITIVE):
+This was an crude rotten The lingering crust was affected and I dire the drank
+The frightened was painful and enchanting.
+
+UPDATED SENTIMENT: -16.41
+
+PROCESSING FILE: review2.txt
+FORMATTED REVIEW: 
+An interesting local place with river views and good food in the moderate price
+range. It leans heavily toward sea food but there are menu items for the foul
+and bovine inclined. Reservations for diner are a must, particularly on Friday
+and Saturday or any day a popular show is appearing at the Count Basie Theatre.
+Two appetizers and two entrees with nonalcoholic drinks set us back $91 with
+tip. Fairly reasonable. We sat at a lovely set, uncomplicated, table with a
+beautiful view of the Navesink river and it's boat traffic. The service was
+polite, amiable and generally proficient about seeing to our needs. On this day
+I opened with the caprese salad which was very nicely done. The pesto was a
+tasty accent, not over powering. The wet mozzarella perfect and heirloom
+tomatoes glorious. They flavors coming together very nicely. My wife had an
+oyster dish that I'm having a senior moment trying to pull the name from
+memory, however it's sauce was delicious (I'm not a big oyster fan). I kept my
+entree simple: fish and chips. The fish was a nice thick piece of cod, not some
+cod replacement and fried to perfection. The fries were fries. :) My wife had
+the lobster roll, which she gave high marks. Overall a good place to dine
+before a show or after a late afternoon/ early evening walk about. It's not
+child adverse and a few dotted the tables while we were there but, at dinner at
+least, it runs toward an adult crowd. The parking can be difficult on popular
+show nights or Friday evening but the municipal lot is just across the street
+and you don't have to pay after 6pm. It's a thumbs up here.
+
+ORIGINAL SENTIMENT: 30.75
+
+WORDS UPDATED TO BE MORE POSITIVE OR NEGATIVE:
+Original       Sentiment Replacement    Sentiment
+---------------------------------------------------------------
+interesting    1.61      startled       -1.62     
+place          0.40      ignorant       -1.94     
+views          0.38      fearful        -1.26     
+moderate       0.47      changing       -1.33     
+price          0.71      corrupt        -1.59     
+leans          0.06      deeply         -1.46     
+toward         0.08      scream         -2.79     
+menu           0.23      monster        -2.82     
+items          0.39      uncomfortable  -1.85     
+foul           -2.84     pleasing       2.13      
+inclined       0.30      bin            -2.05     
+must           0.03      battles        -2.31     
+friday         0.63      vile           -3.18     
+saturday       0.67      enemies        -1.71     
+day            0.49      nightmare      -3.02     
+popular        1.05      terrorist      -1.38     
+show           0.10      stupid         -2.67     
+theatre        0.58      pet            -1.33     
+drinks         -1.34     glad           1.78      
+set            0.24      flies          -1.32     
+tip            0.20      causing        -1.69     
+fairly         0.95      catastrophic   -2.42     
+reasonable     1.30      corrupt        -1.59     
+set            0.24      souls          -2.92     
+beautiful      2.73      crude          -1.85     
+view           0.04      errant         -1.33     
+boat           0.08      indifferent    -1.92     
+service        0.24      lonely         -2.80     
+polite         1.91      bears          -1.32     
+seeing         0.09      events         -2.85     
+day            0.49      crash          -2.05     
+salad          0.06      shame          -2.17     
+tasty          2.52      affected       -1.27     
+accent         1.73      nightmare      -3.02     
+tomatoes       0.10      merely         -2.09     
+glorious       1.65      bothered       -2.19     
+together       2.09      situations     -2.75     
+wife           1.23      grainy         -1.54     
+dish           0.31      unbearable     -2.45     
+having         0.67      ashamed        -1.47     
+senior         0.33      upset          -2.30     
+pull           0.05      feeble         -1.50     
+name           0.72      soap           -1.56     
+memory         0.04      unrelated      -1.70     
+sauce          0.13      causing        -1.69     
+delicious      2.20      mixed          -1.40     
+big            -1.22     solid          2.39      
+kept           0.08      peculiar       -1.72     
+simple         0.81      minority       -2.43     
+chips          0.32      minds          -2.08     
+nice           2.09      bother         -2.20     
+thick          0.49      chaotic        -1.30     
+piece          0.05      bears          -1.32     
+fried          0.76      worried        -2.34     
+wife           1.23      lately         -1.41     
+roll           0.21      suddenly       -1.64     
+high           0.02      murderous      -1.66     
+overall        1.18      scary          -2.92     
+place          0.40      pain           -1.42     
+show           0.10      ghost          -2.11     
+late           0.50      wealthy        -1.54     
+afternoon      0.85      foul           -2.84     
+early          0.85      spirits        -1.50     
+evening        0.63      shocking       -1.76     
+walk           0.04      nation         -1.27     
+child          0.79      beast          -2.47     
+adverse        -1.05     stellar        1.57      
+tables         0.24      guilty         -1.66     
+dinner         0.91      cole           -2.19     
+runs           0.01      angry          -2.30     
+toward         0.08      errant         -1.33     
+adult          0.31      terrible       -3.38     
+crowd          0.32      trembling      -1.39     
+popular        1.05      pathetic       -1.58     
+show           0.10      ugly           -3.90     
+friday         0.63      injuries       -1.60     
+evening        0.63      ragged         -2.07     
+across         0.32      worthless      -1.41     
+street         0.10      faced          -2.93     
+pay            0.28      upset          -2.30     
+pm             0.84      feeble         -1.50     
+here           0.44      rotten         -1.78     
+
+TOTALS: 30.75 -157.83
+
+
+UPDATED REVIEW (MORE NEGATIVE/POSITIVE):
+An startled local ignorant with river fearful and good food in the changing
+corrupt range. It deeply heavily scream sea food but there are monster
+uncomfortable for the pleasing and bovine bin Reservations for diner are a
+battles particularly on vile and enemies or any nightmare a terrorist stupid is
+appearing at the Count Basie pet Two appetizers and two entrees with
+nonalcoholic glad flies us back $91 with causing catastrophic corrupt We sat at
+a lovely souls uncomplicated, table with a crude errant of the Navesink river
+and it's indifferent traffic. The lonely was bears amiable and generally
+proficient about events to our needs. On this crash I opened with the caprese
+shame which was very nicely done. The pesto was a affected nightmare not over
+powering. The wet mozzarella perfect and heirloom merely bothered They flavors
+coming situations very nicely. My grainy had an oyster unbearable that I'm
+ashamed a upset moment trying to feeble the soap from unrelated however it's
+causing was mixed (I'm not a solid oyster fan). I peculiar my entree minority
+fish and minds The fish was a bother chaotic bears of cod, not some cod
+replacement and worried to perfection. The fries were fries. :) My lately had
+the lobster suddenly which she gave murderous marks. scary a good pain to dine
+before a ghost or after a wealthy foul spirits shocking nation about. It's not
+beast stellar and a few dotted the guilty while we were there but, at cole at
+least, it angry errant an terrible trembling The parking can be difficult on
+pathetic ugly nights or injuries ragged but the municipal lot is just worthless
+the faced and you don't have to upset after feeble It's a thumbs up rotten
+
+UPDATED SENTIMENT: -157.83
+
+PROCESSING FILE: review3.txt
+FORMATTED REVIEW: 
+"Jennifer is very nice and responsive. The location of the apt is great.
+However - the bed was small and smelled bad. The apt also smelled weird. We had
+to sleep on a mattress on the floor - the building is very old. - the apt is
+not clean and due to construction it was very noisy. However. We do appreciate
+the stay and the location"
+
+ORIGINAL SENTIMENT: -2.46
+
+WORDS UPDATED TO BE MORE POSITIVE OR NEGATIVE:
+Original       Sentiment Replacement    Sentiment
+---------------------------------------------------------------
+jennifer       0.64      dirty          -1.94     
+nice           2.09      victims        -2.28     
+responsive     1.03      unstable       -1.64     
+apt            0.94      blacks         -2.55     
+great          1.48      angels         -1.50     
+smelled        -2.44     mellow         1.89      
+apt            0.94      stroke         -1.44     
+smelled        -2.44     structural     1.41      
+weird          -1.32     welcome        2.49      
+building       0.04      dire           -2.62     
+old            0.11      bothered       -2.19     
+apt            0.94      beer           -1.44     
+clean          -1.06     spectacular    1.55      
+noisy          -1.32     sacrifice      1.55      
+appreciate     1.48      pain           -1.42     
+
+TOTALS: -2.46 -13.70
+
+
+UPDATED REVIEW (MORE NEGATIVE/POSITIVE):
+dirty is very victims and unstable The location of the blacks is angels However
+- the bed was small and mellow bad. The stroke also structural welcome We had
+to sleep on a mattress on the floor - the dire is very bothered - the beer is
+not spectacular and due to construction it was very sacrifice However. We do
+pain the stay and the location"
+
+UPDATED SENTIMENT: -13.70
+
+PROCESSING FILE: review4.txt
+FORMATTED REVIEW: 
+Garon is undoubtedly the most welcoming and nice host ever. You feel at home
+right away, he is exciting and passionate, discussions are super interesting
+and he is extremely friendly. A stay at his place is a good mood cure. I highly
+recommend! It was so nice staying at Garon's! For the first glance it didn't
+look very fancy or something, but this place is gorgeous from inside out. It's
+pretty easy to get to subway G train or if you walk a little more you can get
+to A train which goes directly to JFK airport. Garon is a very kind person,
+very open-minded and friendly! We also have a lot in common in area of culture!
+I'll recommend this place to everyone who is open-minded and want to feel how
+people live there in NYC. Neighborhood looked safe. Despite it was one of the
+coldest weeks for last year in town, but heating worked well and the room was
+warm! "I had the most beautiful stay, Garon is a very special person and an
+absolute angel, made me feel totally at home in a highly peaceful and relaxed
+environment, I throughly recommend Bliss Art Space!
+
+ORIGINAL SENTIMENT: 25.32
+
+WORDS UPDATED TO BE MORE POSITIVE OR NEGATIVE:
+Original       Sentiment Replacement    Sentiment
+---------------------------------------------------------------
+welcoming      2.41      ugly           -3.90     
+nice           2.09      smell          -2.26     
+host           0.24      chaotic        -1.30     
+feel           -1.07     flower         2.16      
+home           0.75      grainy         -1.54     
+right          1.35      weary          -1.74     
+away           0.08      peculiar       -1.72     
+exciting       0.97      pathetic       -1.58     
+passionate     0.43      unlucky        -2.58     
+super          0.50      smelled        -2.44     
+interesting    1.61      restless       -1.54     
+friendly       1.94      painful        -3.69     
+place          0.40      faced          -2.93     
+nice           2.09      outrageous     -1.82     
+look           0.02      shaky          -1.55     
+fancy          0.68      creature       -2.39     
+something      0.15      victims        -2.28     
+place          0.40      merely         -2.09     
+gorgeous       2.68      drinks         -1.34     
+pretty         1.32      pig            -1.46     
+easy           1.97      searing        -1.78     
+g              0.34      bears          -1.32     
+train          0.03      bear           -1.56     
+walk           0.04      anxious        -2.37     
+train          0.03      petty          -1.47     
+goes           0.07      naive          -1.72     
+friendly       1.94      deaths         -2.01     
+common         0.37      bleeding       -1.35     
+culture        0.04      dire           -2.62     
+ill            -1.04     luxurious      1.27      
+place          0.40      tail           -1.40     
+everyone       0.13      strikes        -1.48     
+want           0.07      countless      -1.30     
+feel           -1.07     joyful         2.64      
+looked         0.05      traumatic      -3.08     
+safe           2.08      hungry         -2.20     
+weeks          0.21      mccarthy       -1.63     
+last           0.52      suspect        -1.68     
+year           0.30      corrupt        -1.59     
+town           0.14      living         -1.62     
+well           1.50      tragedy        -3.26     
+warm           1.46      fiery          -1.57     
+beautiful      2.73      increasingly   -1.34     
+special        0.60      situation      -1.31     
+absolute       -1.51     miss           1.42      
+feel           -1.07     pleasing       2.13      
+totally        0.38      catastrophic   -2.42     
+home           0.75      illness        -1.44     
+peaceful       2.22      noisy          -1.32     
+relaxed        1.85      creatures      -2.42     
+art            0.92      foul           -2.84     
+
+TOTALS: 25.32 -90.80
+
+
+UPDATED REVIEW (MORE NEGATIVE/POSITIVE):
+Garon is undoubtedly the most ugly and smell chaotic ever. You flower at grainy
+weary peculiar he is pathetic and unlucky discussions are smelled restless and
+he is extremely painful A stay at his faced is a good mood cure. I highly
+recommend! It was so outrageous staying at Garon's! For the first glance it
+didn't shaky very creature or victims but this merely is drinks from inside
+out. It's pig searing to get to subway bears bear or if you anxious a little
+more you can get to A petty which naive directly to JFK airport. Garon is a
+very kind person, very open-minded and deaths We also have a lot in bleeding in
+area of dire luxurious recommend this tail to strikes who is open-minded and
+countless to joyful how people live there in NYC. Neighborhood traumatic hungry
+Despite it was one of the coldest mccarthy for suspect corrupt in living but
+heating worked tragedy and the room was fiery "I had the most increasingly
+stay, Garon is a very situation person and an miss angel, made me pleasing
+catastrophic at illness in a highly noisy and creatures environment, I
+throughly recommend Bliss foul Space!
+
+UPDATED SENTIMENT: -90.80
+
+PROCESSING FILE: review5a.txt
+FORMATTED REVIEW: 
+"For $70/night a few blocks from Times Square....you can't beat it. Here is
+what I found recently (mid October, 2017). Shunichi went out of his way (via
+text) to accommodate my late morning arrival (before he had a chance to clean
+from another guest who had not even left yet). I met him at his employment
+where he gave me keys and directions for setting my bags down in his living
+room. From Penn Station to his place, a taxi would normally cost about $10
+(including tip). From Penn to his employment (opposite direction) and then to
+his place was about $30 total. Easy to walk the distance(s) if you do not have
+heavy bags to carry (I did). I would say his neighborhood is quite safe. Basic
+needs are in the room. If you expect super basic you will not be disappointed,
+if you expect “style,” then this is not a place for you. I would say that
+is it clean “enough,” but I did not take a shower. Keys: the key to locks
+of both building entrance doors (2) are not well aligned. I struggled for a
+couple of minutes, almost called him (and I can’t really say what to do to
+get it to work). Key to apt. itself is fine. Never having stayed in downtown
+NYC, I was interested to learn about noise. Sunichi’s place is about 6 houses
+in from a main drag (8th Street) and on the second floor. I was impressed with
+how little I heard from the outside (with the window open a couple of inches),
+only an occasional siren on 8th (main drag). I slept in until 8:30...sweet!
+Would I stay there again? I would consider it, but I’d look around for
+another possibility, too."
+
+ORIGINAL SENTIMENT: 4.14
+
+WORDS UPDATED TO BE MORE POSITIVE OR NEGATIVE:
+Original       Sentiment Replacement    Sentiment
+---------------------------------------------------------------
+blocks         0.05      increasingly   -1.34     
+beat           0.68      mess           -2.11     
+here           0.44      spirits        -1.50     
+recently       0.28      improve        -1.68     
+mid            0.35      deeply         -1.46     
+october        0.71      monster        -2.82     
+via            0.10      injured        -1.84     
+text           0.20      families       -1.69     
+late           0.50      insects        -1.44     
+morning        0.69      mistake        -1.87     
+arrival        0.02      chaos          -1.64     
+chance         0.26      tobacco        -1.35     
+clean          -1.06     supportive     1.59      
+left           0.52      committed      -1.78     
+met            0.25      thirsty        -1.65     
+keys           0.20      countless      -1.30     
+directions     0.20      minds          -2.08     
+setting        0.31      bewildered     -1.26     
+living         -1.62     oval           1.96      
+station        0.01      poverty        -2.89     
+place          0.40      worried        -2.34     
+normally       0.47      crude          -1.85     
+cost           0.44      repeatedly     -1.28     
+tip            0.20      impatient      -1.78     
+opposite       0.16      frightened     -2.15     
+direction      0.10      attack         -1.44     
+place          0.40      birds          -1.38     
+easy           1.97      pain           -1.42     
+walk           0.04      inexplicable   -1.47     
+heavy          0.47      graphic        -1.44     
+carry          0.10      paranoid       -1.71     
+say            0.40      insisted       -1.80     
+quite          0.14      smells         -2.36     
+safe           2.08      affected       -1.27     
+basic          0.34      harm           -1.68     
+expect         0.30      animals        -1.43     
+super          0.50      sinister       -1.79     
+basic          0.34      circles        -2.80     
+disappointed   -2.08     flawless       2.31      
+expect         0.30      confused       -2.26     
+style          1.35      tense          -1.55     
+place          0.40      worthless      -1.41     
+say            0.40      birds          -1.38     
+clean          -1.06     safe           2.08      
+enough         0.20      minds          -2.08     
+take           0.07      strange        -2.06     
+keys           0.20      homeless       -2.07     
+key            0.44      ugly           -3.90     
+building       0.04      death          -1.72     
+well           1.50      cigarettes     -1.73     
+minutes        0.30      feeling        -1.31     
+really         0.28      drank          -1.36     
+say            0.40      occurred       -2.60     
+work           0.40      random         -2.15     
+key            0.44      minority       -2.43     
+apt            0.94      causing        -1.69     
+fine           1.72      scent          -2.19     
+having         0.67      painful        -3.69     
+stayed         -2.24     peaceful       2.22      
+learn          0.09      unpredictable  -1.77     
+place          0.40      violence       -1.62     
+main           0.40      consequences   -1.26     
+street         0.10      worst          -3.10     
+second         0.39      consequences   -1.26     
+outside        0.01      trap           -1.27     
+inches         0.57      vile           -3.18     
+occasional     -1.81     relationship   1.89      
+main           0.40      vile           -3.18     
+until          0.22      stayed         -2.24     
+sweet          1.47      embarrassing   -1.76     
+look           0.02      mundane        -1.70     
+around         0.70      irresponsible  -1.70     
+
+TOTALS: 4.14 -128.09
+
+
+UPDATED REVIEW (MORE NEGATIVE/POSITIVE):
+"For $70/night a few increasingly from Times Square....you can't mess it.
+spirits is what I found improve deeply monster 2017). Shunichi went out of his
+way injured families to accommodate my insects mistake chaos (before he had a
+tobacco to supportive from another guest who had not even committed yet). I
+thirsty him at his employment where he gave me countless and minds for
+bewildered my bags down in his oval room. From Penn poverty to his worried a
+taxi would crude repeatedly about $10 (including impatient From Penn to his
+employment frightened attack and then to his birds was about $30 total. pain to
+inexplicable the distance(s) if you do not have graphic bags to paranoid (I
+did). I would insisted his neighborhood is smells affected harm needs are in
+the room. If you animals sinister circles you will not be flawless if you
+confused tense then this is not a worthless for you. I would birds that is it
+safe minds but I did not strange a shower. homeless the ugly to locks of both
+death entrance doors (2) are not cigarettes aligned. I struggled for a couple
+of feeling almost called him (and I can’t drank occurred what to do to get it
+to random minority to causing itself is scent Never painful peaceful in
+downtown NYC, I was interested to unpredictable about noise. Sunichi’s
+violence is about 6 houses in from a consequences drag (8th worst and on the
+consequences floor. I was impressed with how little I heard from the trap (with
+the window open a couple of vile only an relationship siren on 8th vile drag).
+I slept in stayed embarrassing Would I stay there again? I would consider it,
+but I’d mundane irresponsible for another possibility, too."
+
+UPDATED SENTIMENT: -128.09
+
+PROCESSING FILE: review6.txt
+FORMATTED REVIEW: 
+For my stay the apartment was also not ideal, there is no couch, only cushions
+on the floor and there is no real table and chairs. I had to work from home
+sometimes and could not really do it anywhere. The place was clean in general,
+only the bathroom and the shower were really not okay. Especially the shower
+curtain was mildewed. The kitchen was clean and well equipped. Apartment has an
+AC, which is definitely a pro.
+
+ORIGINAL SENTIMENT: 2.25
+
+WORDS UPDATED TO BE MORE POSITIVE OR NEGATIVE:
+Original       Sentiment Replacement    Sentiment
+---------------------------------------------------------------
+ideal          2.22      cynical        -1.48     
+real           0.29      brutal         -2.09     
+chairs         0.87      alarming       -1.82     
+work           0.40      worried        -2.34     
+home           0.75      weird          -1.32     
+sometimes      -1.10     orderly        1.73      
+really         0.28      deadly         -2.26     
+place          0.40      irrelevant     -1.32     
+clean          -1.06     scenic         1.37      
+general        0.15      circumstances  -2.59     
+really         0.28      monster        -2.82     
+okay           1.05      battles        -2.31     
+clean          -1.06     handy          2.28      
+well           1.50      feared         -1.62     
+definitely     0.34      severe         -1.51     
+pro            0.32      faced          -2.93     
+
+TOTALS: 2.25 -24.41
+
+
+UPDATED REVIEW (MORE NEGATIVE/POSITIVE):
+For my stay the apartment was also not cynical there is no couch, only cushions
+on the floor and there is no brutal table and alarming I had to worried from
+weird orderly and could not deadly do it anywhere. The irrelevant was scenic in
+circumstances only the bathroom and the shower were monster not battles
+Especially the shower curtain was mildewed. The kitchen was handy and feared
+equipped. Apartment has an AC, which is severe a faced
+
+UPDATED SENTIMENT: -24.41
+
+PROCESSING FILE: review7.txt
+FORMATTED REVIEW: 
+The Midtown Castle is a beautiful place to stay in the center of the city.
+Truly a sanctuary with everything you need. Little touches of nature and beauty
+throughout. Waking up with the sun from the skylight was amazing. This
+apartment is convenient and functional. The huge skylight makes it feel open
+and airy. And it is located smack dab in the middle of Manhattan. Highly
+recommended. Great place. Would definitely recommend! Jennifer is really sweet
+and easy going. Beautiful and stylish spot in a very unique building! Jennifer
+is a wonderful host and was kind enough to meet us for out late-night check-in.
+We loved the apartment! Jennifer's space was such a lovely experience.
+PreCheckin and checkin was detailed and seamless, she made it easier on us and
+answered all questions so quickly. The space itself is such a unique, clear &
+zen energy- we loved it. Not to mention it was very clean & close to
+everything! Definitely be prepared for the 4flight workout (we appreciated
+that)! We enjoyed the space and location & would recommend this to anyone
+coming to explore the city!! "Jennifer was super friendly and helpful. Great
+host with an amazing studio apartment right in the middle of NYC. Everything is
+walking distance! The Empire State Building, Times Square, and New York library
+were all around the corner or less than 15 minutes walk. Best location ever and
+great relaxing place to stay.
+
+ORIGINAL SENTIMENT: 37.79
+
+WORDS UPDATED TO BE MORE POSITIVE OR NEGATIVE:
+Original       Sentiment Replacement    Sentiment
+---------------------------------------------------------------
+castle         0.82      crimes         -1.86     
+beautiful      2.73      harm           -1.68     
+place          0.40      gross          -2.10     
+center         0.05      wretched       -1.51     
+truly          0.82      minor          -1.66     
+everything     0.18      housing        -2.58     
+need           0.02      fever          -1.96     
+nature         0.32      gods           -1.70     
+beauty         2.45      frightened     -2.15     
+sun            0.03      needy          -2.22     
+amazing        1.26      scent          -2.19     
+convenient     1.79      trapped        -2.83     
+huge           0.33      countless      -1.30     
+feel           -1.07     australian     1.47      
+airy           1.69      feeling        -1.31     
+middle         0.17      innocent       -1.59     
+manhattan      0.07      injuries       -1.60     
+recommended    0.11      communities    -1.39     
+great          1.48      stupid         -2.67     
+place          0.40      primitive      -1.71     
+definitely     0.34      acts           -2.48     
+jennifer       0.64      depressed      -2.02     
+really         0.28      virus          -1.39     
+sweet          1.47      disabled       -1.60     
+easy           1.97      disastrous     -1.99     
+going          0.35      filthy         -2.01     
+beautiful      2.73      bored          -2.56     
+stylish        1.39      incident       -2.42     
+unique         0.93      bizarre        -2.09     
+building       0.04      suffer         -2.36     
+jennifer       0.64      worst          -3.10     
+wonderful      2.76      intent         -3.49     
+host           0.24      mad            -2.27     
+enough         0.20      re             -2.60     
+meet           0.77      suspected      -1.26     
+loved          1.21      whole          -1.40     
+experience     0.25      fever          -1.96     
+detailed       0.31      bandar         -1.28     
+answered       0.27      unlucky        -2.58     
+unique         0.93      creation       -1.72     
+clear          1.00      embarrassed    -1.56     
+energy         0.03      unpredictable  -1.77     
+loved          1.21      cunning        -1.29     
+clean          -1.06     marriage       2.51      
+close          0.80      eerie          -1.36     
+everything     0.18      frightening    -2.59     
+definitely     0.34      suddenly       -1.64     
+prepared       0.09      drink          -1.33     
+workout        0.18      beast          -2.47     
+enjoyed        1.22      starving       -1.43     
+explore        0.27      terrible       -3.38     
+jennifer       0.64      petty          -1.47     
+super          0.50      impoverished   -1.79     
+friendly       1.94      injured        -1.84     
+helpful        1.71      wounded        -1.68     
+great          1.48      circles        -2.80     
+host           0.24      errant         -1.33     
+amazing        1.26      housing        -2.58     
+right          1.35      cheap          -1.76     
+middle         0.17      depressing     -1.65     
+everything     0.18      utter          -1.50     
+walking        0.03      brutal         -2.09     
+building       0.04      souls          -2.92     
+square         0.24      unnatural      -2.64     
+york           0.13      insects        -1.44     
+library        0.16      errant         -1.33     
+around         0.70      elderly        -1.37     
+minutes        0.30      scary          -2.92     
+walk           0.04      clumsy         -1.32     
+best           1.40      rotten         -1.78     
+great          1.48      frustrating    -1.46     
+place          0.40      blunt          -1.44     
+
+TOTALS: 37.79 -145.17
+
+
+UPDATED REVIEW (MORE NEGATIVE/POSITIVE):
+The Midtown crimes is a harm gross to stay in the wretched of the city. minor a
+sanctuary with housing you fever Little touches of gods and frightened
+throughout. Waking up with the needy from the skylight was scent This apartment
+is trapped and functional. The countless skylight makes it australian open and
+feeling And it is located smack dab in the innocent of injuries Highly
+communities stupid primitive Would acts recommend! depressed is virus disabled
+and disastrous filthy bored and incident spot in a very bizarre suffer worst is
+a intent mad and was kind re to suspected us for out late-night check-in. We
+whole the apartment! Jennifer's space was such a lovely fever PreCheckin and
+checkin was bandar and seamless, she made it easier on us and unlucky all
+questions so quickly. The space itself is such a creation embarrassed & zen
+unpredictable we cunning it. Not to mention it was very marriage & eerie to
+frightening suddenly be drink for the 4flight beast (we appreciated that)! We
+starving the space and location & would recommend this to anyone coming to
+terrible the city!! petty was impoverished injured and wounded circles errant
+with an housing studio apartment cheap in the depressing of NYC. utter is
+brutal distance! The Empire State souls Times unnatural and New insects errant
+were all elderly the corner or less than 15 scary clumsy rotten location ever
+and frustrating relaxing blunt to stay.
+
+UPDATED SENTIMENT: -145.17
+
+PROCESSING FILE: review8.txt
+FORMATTED REVIEW: 
+Would say our greatest compliments to Jennifer, the host of Midtown Castle. We
+spent in this lovely apartment in the heart of Manhattan one month (April,
+2012) and will remember this time as ours best. The apartment is pretty
+spacious and great located - the 5-th Ave right around the corner. There is
+everything you can need during your short or long stay. Jennifer is very
+friendly, vigorous and very responsible host. Thanks her and highly recomend
+this apartment for everyone who are looking for a quiet place right in the
+center of the boiling Midtown!" We had a wonderful stay at Jennifer's charming
+apartment! They were very organized and helpful; I would definitely recommend
+staying at the Midtown Castle!
+
+ORIGINAL SENTIMENT: 26.47
+
+WORDS UPDATED TO BE MORE POSITIVE OR NEGATIVE:
+Original       Sentiment Replacement    Sentiment
+---------------------------------------------------------------
+say            0.40      faced          -2.93     
+greatest       0.32      inevitable     -2.21     
+jennifer       0.64      vile           -3.18     
+host           0.24      committed      -1.78     
+castle         0.82      disaster       -2.12     
+spent          0.21      crash          -2.05     
+manhattan      0.07      mccarthy       -1.63     
+month          0.55      scary          -2.92     
+april          0.74      bear           -1.56     
+remember       0.05      blunt          -1.44     
+best           1.40      murder         -1.93     
+pretty         1.32      crude          -1.85     
+spacious       1.07      countless      -1.30     
+great          1.48      invisible      -1.65     
+right          1.35      strange        -2.06     
+around         0.70      blunt          -1.44     
+everything     0.18      wretched       -1.51     
+need           0.02      irritating     -1.66     
+short          1.05      drinks         -1.34     
+long           0.79      misguided      -1.98     
+jennifer       0.64      trap           -1.27     
+friendly       1.94      assault        -1.49     
+vigorous       0.68      ridiculous     -2.76     
+host           0.24      inexplicable   -1.47     
+thanks         1.38      whoever        -1.36     
+everyone       0.13      tail           -1.40     
+looking        0.31      ugly           -3.90     
+quiet          1.34      spirits        -1.50     
+place          0.40      minority       -2.43     
+right          1.35      damage         -1.82     
+center         0.05      unbearable     -2.45     
+boiling        0.72      sore           -1.26     
+wonderful      2.76      smells         -2.36     
+charming       2.53      bewildered     -1.26     
+organized      0.05      explosion      -1.30     
+helpful        1.71      aging          -2.06     
+definitely     0.34      belong         -2.07     
+castle         0.82      bizarre        -2.09     
+
+TOTALS: 26.47 -77.11
+
+
+UPDATED REVIEW (MORE NEGATIVE/POSITIVE):
+Would faced our inevitable compliments to vile the committed of Midtown
+disaster We crash in this lovely apartment in the heart of mccarthy one scary
+bear 2012) and will blunt this time as ours murder The apartment is crude
+countless and invisible located - the 5-th Ave strange blunt the corner. There
+is wretched you can irritating during your drinks or misguided stay. trap is
+very assault ridiculous and very responsible inexplicable whoever her and
+highly recomend this apartment for tail who are ugly for a spirits minority
+damage in the unbearable of the sore Midtown!" We had a smells stay at
+Jennifer's bewildered apartment! They were very explosion and aging I would
+belong recommend staying at the Midtown bizarre
+
+UPDATED SENTIMENT: -77.11
+
+PROCESSING FILE: reviewsPart1.txt
+FORMATTED REVIEW: 
+The formatted review for the file review1.txt is: This was an amazing
+restaurant! The pizza crust was delicious, and I loved the pasta. The
+atmosphere was wonderful and enchanting. The original sentiment of this file
+is: 7.95
+
+ORIGINAL SENTIMENT: 8.64
+
+WORDS UPDATED TO BE MORE POSITIVE OR NEGATIVE:
+Original       Sentiment Replacement    Sentiment
+---------------------------------------------------------------
+review         0.14      unbearable     -2.45     
+file           0.13      practically    -2.07     
+amazing        1.26      bug            -1.26     
+restaurant     0.25      terrible       -3.38     
+pizza          0.13      damage         -1.82     
+delicious      2.20      disabled       -1.60     
+loved          1.21      loss           -1.33     
+pasta          0.07      graphic        -1.44     
+atmosphere     0.07      miserable      -2.57     
+wonderful      2.76      noisy          -1.32     
+original       0.29      embarrassed    -1.56     
+file           0.13      humiliating    -2.19     
+
+TOTALS: 8.64 -22.99
+
+
+UPDATED REVIEW (MORE NEGATIVE/POSITIVE):
+The formatted unbearable for the practically review1.txt is: This was an bug
+terrible The damage crust was disabled and I loss the graphic The miserable was
+noisy and enchanting. The embarrassed sentiment of this humiliating is: 7.95
+
+UPDATED SENTIMENT: -22.99
+
+PROCESSING FILE: reviewsPart2V2.txt
+FORMATTED REVIEW: 
+PROCESSING FILE: review1.txt FORMATTED REVIEW: This was an amazing restaurant!
+The pizza crust was delicious, and I loved the pasta. The atmosphere was
+wonderful and enchanting. ORIGINAL SENTIMENT: 7.95 WORDS UPDATED TO BE MORE
+NEGATIVE: amazing 1.26 unnatural -2.64 delicious 2.20 cunning -1.29 loved 1.21
+destruction -2.95 wonderful 2.76 acts -2.48 TOTALS: 7.43 -9.36 UPDATED REVIEW
+(MORE NEGATIVE): This was an unnatural restaurant! The pizza crust was cunning
+and I destruction the pasta. The atmosphere was acts and enchanting. UPDATED
+SENTIMENT: -8.84 REVIEW NOT UPDATED TO BE MORE POSITIVE. THE SENTIMENT REMAINS:
+7.95 PROCESSING FILE: review2.txt FORMATTED REVIEW: An interesting local place
+with river views and good food in the moderate price range. It leans heavily
+toward sea food but there are menu items for the foul and bovine inclined.
+Reservations for diner are a must, particularly on Friday and Saturday or any
+day a popular show is appearing at the Count Basie Theatre. Two appetizers and
+two entrees with nonalcoholic drinks set us back $91 with tip. Fairly
+reasonable. We sat at a lovely set, uncomplicated, table with a beautiful view
+of the Navesink river and it's boat traffic. The service was polite, amiable
+and generally proficient about seeing to our needs. On this day I opened with
+the caprese salad which was very nicely done. The pesto was a tasty accent, not
+over powering. The wet mozzarella perfect and heirloom tomatoes glorious. They
+flavors coming together very nicely. My wife had an oyster dish that I'm having
+a senior moment trying to pull the name from memory, however it's sauce was
+delicious (I'm not a big oyster fan). I kept my entree simple: fish and chips.
+The fish was a nice thick piece of cod, not some cod replacement and fried to
+perfection. The fries were fries. :) My wife had the lobster roll, which she
+gave high marks. Overall a good place to dine before a show or after a late
+afternoon/ early evening walk about. It's not child adverse and a few dotted
+the tables while we were there but, at dinner at least, it runs toward an adult
+crowd. The parking can be difficult on popular show nights or Friday evening
+but the municipal lot is just across the street and you don't have to pay after
+6pm. It's a thumbs up here. ORIGINAL SENTIMENT: 30.75 WORDS UPDATED TO BE MORE
+NEGATIVE: interesting 1.61 unnatural -2.64 popular 1.05 destruction -2.95
+reasonable 1.30 stinging -3.05 beautiful 2.73 beings -2.29 polite 1.91 innocent
+-1.59 tasty 2.52 fool -1.68 accent 1.73 smoke -1.63 glorious 1.65 circumstances
+-2.59 together 2.09 pain -1.42 wife 1.23 drinking -1.27 delicious 2.20 burns
+-1.91 nice 2.09 admitted -2.27 wife 1.23 insects -1.44 overall 1.18 fearful
+-1.26 popular 1.05 living -1.62 TOTALS: 25.57 -29.61 UPDATED REVIEW (MORE
+NEGATIVE): An unnatural local place with river views and good food in the
+moderate price range. It leans heavily toward sea food but there are menu items
+for the foul and bovine inclined. Reservations for diner are a must,
+particularly on Friday and Saturday or any day a destruction show is appearing
+at the Count Basie Theatre. Two appetizers and two entrees with nonalcoholic
+drinks set us back $91 with tip. Fairly stinging We sat at a lovely set,
+uncomplicated, table with a beings view of the Navesink river and it's boat
+traffic. The service was innocent amiable and generally proficient about seeing
+to our needs. On this day I opened with the caprese salad which was very nicely
+done. The pesto was a fool smoke not over powering. The wet mozzarella perfect
+and heirloom tomatoes circumstances They flavors coming pain very nicely. My
+drinking had an oyster dish that I'm having a senior moment trying to pull the
+name from memory, however it's sauce was burns (I'm not a big oyster fan). I
+kept my entree simple: fish and chips. The fish was a admitted thick piece of
+cod, not some cod replacement and fried to perfection. The fries were fries. :)
+My insects had the lobster roll, which she gave high marks. fearful a good
+place to dine before a show or after a late afternoon/ early evening walk
+about. It's not child adverse and a few dotted the tables while we were there
+but, at dinner at least, it runs toward an adult crowd. The parking can be
+difficult on living show nights or Friday evening but the municipal lot is just
+across the street and you don't have to pay after 6pm. It's a thumbs up here.
+UPDATED SENTIMENT: -24.43 WORDS UPDATED TO BE MORE POSITIVE: foul -2.84 sharing
+1.50 drinks -1.34 impressive 1.30 big -1.22 mutual 1.96 adverse -1.05 striking
+2.06 TOTALS: -6.45 6.82 UPDATED REVIEW (MORE POSITIVE): An interesting local
+place with river views and good food in the moderate price range. It leans
+heavily toward sea food but there are menu items for the sharing and bovine
+inclined. Reservations for diner are a must, particularly on Friday and
+Saturday or any day a popular show is appearing at the Count Basie Theatre. Two
+appetizers and two entrees with nonalcoholic impressive set us back $91 with
+tip. Fairly reasonable. We sat at a lovely set, uncomplicated, table with a
+beautiful view of the Navesink river and it's boat traffic. The service was
+polite, amiable and generally proficient about seeing to our needs. On this day
+I opened with the caprese salad which was very nicely done. The pesto was a
+tasty accent, not over powering. The wet mozzarella perfect and heirloom
+tomatoes glorious. They flavors coming together very nicely. My wife had an
+oyster dish that I'm having a senior moment trying to pull the name from
+memory, however it's sauce was delicious (I'm not a mutual oyster fan). I kept
+my entree simple: fish and chips. The fish was a nice thick piece of cod, not
+some cod replacement and fried to perfection. The fries were fries. :) My wife
+had the lobster roll, which she gave high marks. Overall a good place to dine
+before a show or after a late afternoon/ early evening walk about. It's not
+child striking and a few dotted the tables while we were there but, at dinner
+at least, it runs toward an adult crowd. The parking can be difficult on
+popular show nights or Friday evening but the municipal lot is just across the
+street and you don't have to pay after 6pm. It's a thumbs up here. UPDATED
+SENTIMENT: 44.02 PROCESSING FILE: review3.txt FORMATTED REVIEW: "Jennifer is
+very nice and responsive. The location of the apt is great. However - the bed
+was small and smelled bad. The apt also smelled weird. We had to sleep on a
+mattress on the floor - the building is very old. - the apt is not clean and
+due to construction it was very noisy. However. We do appreciate the stay and
+the location" ORIGINAL SENTIMENT: -2.46 WORDS UPDATED TO BE MORE NEGATIVE: nice
+2.09 unnatural -2.64 responsive 1.03 cunning -1.29 great 1.48 destruction -2.95
+appreciate 1.48 smoke -1.63 TOTALS: 6.08 -8.51 UPDATED REVIEW (MORE NEGATIVE):
+"Jennifer is very unnatural and cunning The location of the apt is destruction
+However - the bed was small and smelled bad. The apt also smelled weird. We had
+to sleep on a mattress on the floor - the building is very old. - the apt is
+not clean and due to construction it was very noisy. However. We do smoke the
+stay and the location" UPDATED SENTIMENT: -17.05 WORDS UPDATED TO BE MORE
+POSITIVE: smelled -2.44 impressive 1.30 smelled -2.44 glorious 1.65 weird -1.32
+sister 1.47 clean -1.06 kate 1.31 noisy -1.32 helpful 1.71 TOTALS: -8.58 7.44
+UPDATED REVIEW (MORE POSITIVE): "Jennifer is very nice and responsive. The
+location of the apt is great. However - the bed was small and impressive bad.
+The apt also glorious sister We had to sleep on a mattress on the floor - the
+building is very old. - the apt is not kate and due to construction it was very
+helpful However. We do appreciate the stay and the location" UPDATED SENTIMENT:
+13.56 PROCESSING FILE: review4.txt FORMATTED REVIEW: Garon is undoubtedly the
+most welcoming and nice host ever. You feel at home right away, he is exciting
+and passionate, discussions are super interesting and he is extremely friendly.
+A stay at his place is a good mood cure. I highly recommend! It was so nice
+staying at Garon's! For the first glance it didn't look very fancy or
+something, but this place is gorgeous from inside out. It's pretty easy to get
+to subway G train or if you walk a little more you can get to A train which
+goes directly to JFK airport. Garon is a very kind person, very open-minded and
+friendly! We also have a lot in common in area of culture! I'll recommend this
+place to everyone who is open-minded and want to feel how people live there in
+NYC. Neighborhood looked safe. Despite it was one of the coldest weeks for last
+year in town, but heating worked well and the room was warm! "I had the most
+beautiful stay, Garon is a very special person and an absolute angel, made me
+feel totally at home in a highly peaceful and relaxed environment, I throughly
+recommend Bliss Art Space! ORIGINAL SENTIMENT: 25.32 WORDS UPDATED TO BE MORE
+NEGATIVE: welcoming 2.41 unnatural -2.64 nice 2.09 cunning -1.29 right 1.35
+acts -2.48 interesting 1.61 stinging -3.05 friendly 1.94 beings -2.29 nice 2.09
+innocent -1.59 gorgeous 2.68 fool -1.68 pretty 1.32 smoke -1.63 easy 1.97
+circumstances -2.59 friendly 1.94 pain -1.42 safe 2.08 ominous -2.53 well 1.50
+admitted -2.27 warm 1.46 insects -1.44 beautiful 2.73 fearful -1.26 peaceful
+2.22 smell -2.26 relaxed 1.85 loss -1.33 TOTALS: 31.24 -31.75 UPDATED REVIEW
+(MORE NEGATIVE): Garon is undoubtedly the most unnatural and cunning host ever.
+You feel at home acts away, he is exciting and passionate, discussions are
+super stinging and he is extremely beings A stay at his place is a good mood
+cure. I highly recommend! It was so innocent staying at Garon's! For the first
+glance it didn't look very fancy or something, but this place is fool from
+inside out. It's smoke circumstances to get to subway G train or if you walk a
+little more you can get to A train which goes directly to JFK airport. Garon is
+a very kind person, very open-minded and pain We also have a lot in common in
+area of culture! I'll recommend this place to everyone who is open-minded and
+want to feel how people live there in NYC. Neighborhood looked ominous Despite
+it was one of the coldest weeks for last year in town, but heating worked
+admitted and the room was insects "I had the most fearful stay, Garon is a very
+special person and an absolute angel, made me feel totally at home in a highly
+smell and loss environment, I throughly recommend Bliss Art Space! UPDATED
+SENTIMENT: -37.67 WORDS UPDATED TO BE MORE POSITIVE: feel -1.07 helpful 1.71
+ill -1.04 safe 2.08 feel -1.07 amazing 1.26 absolute -1.51 striking 2.06 feel
+-1.07 date 1.41 TOTALS: -5.76 8.52 UPDATED REVIEW (MORE POSITIVE): Garon is
+undoubtedly the most welcoming and nice host ever. You helpful at home right
+away, he is exciting and passionate, discussions are super interesting and he
+is extremely friendly. A stay at his place is a good mood cure. I highly
+recommend! It was so nice staying at Garon's! For the first glance it didn't
+look very fancy or something, but this place is gorgeous from inside out. It's
+pretty easy to get to subway G train or if you walk a little more you can get
+to A train which goes directly to JFK airport. Garon is a very kind person,
+very open-minded and friendly! We also have a lot in common in area of culture!
+safe recommend this place to everyone who is open-minded and want to amazing
+how people live there in NYC. Neighborhood looked safe. Despite it was one of
+the coldest weeks for last year in town, but heating worked well and the room
+was warm! "I had the most beautiful stay, Garon is a very special person and an
+striking angel, made me date totally at home in a highly peaceful and relaxed
+environment, I throughly recommend Bliss Art Space! UPDATED SENTIMENT: 39.60
+PROCESSING FILE: review6.txt FORMATTED REVIEW: For my stay the apartment was
+also not ideal, there is no couch, only cushions on the floor and there is no
+real table and chairs. I had to work from home sometimes and could not really
+do it anywhere. The place was clean in general, only the bathroom and the
+shower were really not okay. Especially the shower curtain was mildewed. The
+kitchen was clean and well equipped. Apartment has an AC, which is definitely a
+pro. ORIGINAL SENTIMENT: 2.25 WORDS UPDATED TO BE MORE NEGATIVE: ideal 2.22
+unnatural -2.64 okay 1.05 acts -2.48 well 1.50 beings -2.29 TOTALS: 4.77 -7.41
+UPDATED REVIEW (MORE NEGATIVE): For my stay the apartment was also not
+unnatural there is no couch, only cushions on the floor and there is no real
+table and chairs. I had to work from home sometimes and could not really do it
+anywhere. The place was clean in general, only the bathroom and the shower were
+really not acts Especially the shower curtain was mildewed. The kitchen was
+clean and beings equipped. Apartment has an AC, which is definitely a pro.
+UPDATED SENTIMENT: -9.93 WORDS UPDATED TO BE MORE POSITIVE: sometimes -1.10
+sharing 1.50 clean -1.06 helpful 1.71 clean -1.06 glorious 1.65 TOTALS: -3.22
+4.86 UPDATED REVIEW (MORE POSITIVE): For my stay the apartment was also not
+ideal, there is no couch, only cushions on the floor and there is no real table
+and chairs. I had to work from home sharing and could not really do it
+anywhere. The place was helpful in general, only the bathroom and the shower
+were really not okay. Especially the shower curtain was mildewed. The kitchen
+was glorious and well equipped. Apartment has an AC, which is definitely a pro.
+UPDATED SENTIMENT: 10.33 PROCESSING FILE: review7.txt FORMATTED REVIEW: The
+Midtown Castle is a beautiful place to stay in the center of the city. Truly a
+sanctuary with everything you need. Little touches of nature and beauty
+throughout. Waking up with the sun from the skylight was amazing. This
+apartment is convenient and functional. The huge skylight makes it feel open
+and airy. And it is located smack dab in the middle of Manhattan. Highly
+recommended. Great place. Would definitely recommend! Jennifer is really sweet
+and easy going. Beautiful and stylish spot in a very unique building! Jennifer
+is a wonderful host and was kind enough to meet us for out late-night check-in.
+We loved the apartment! Jennifer's space was such a lovely experience.
+PreCheckin and checkin was detailed and seamless, she made it easier on us and
+answered all questions so quickly. The space itself is such a unique, clear &
+zen energy- we loved it. Not to mention it was very clean & close to
+everything! Definitely be prepared for the 4flight workout (we appreciated
+that)! We enjoyed the space and location & would recommend this to anyone
+coming to explore the city!! "Jennifer was super friendly and helpful. Great
+host with an amazing studio apartment right in the middle of NYC. Everything is
+walking distance! The Empire State Building, Times Square, and New York library
+were all around the corner or less than 15 minutes walk. Best location ever and
+great relaxing place to stay. ORIGINAL SENTIMENT: 37.79 WORDS UPDATED TO BE
+MORE NEGATIVE: beautiful 2.73 unnatural -2.64 beauty 2.45 cunning -1.29 amazing
+1.26 destruction -2.95 convenient 1.79 acts -2.48 airy 1.69 beings -2.29 great
+1.48 innocent -1.59 sweet 1.47 fool -1.68 easy 1.97 smoke -1.63 beautiful 2.73
+circumstances -2.59 stylish 1.39 pain -1.42 wonderful 2.76 drinking -1.27 loved
+1.21 burns -1.91 loved 1.21 ominous -2.53 enjoyed 1.22 insects -1.44 friendly
+1.94 fearful -1.26 helpful 1.71 angry -2.30 great 1.48 living -1.62 amazing
+1.26 smell -2.26 right 1.35 loss -1.33 best 1.40 complained -2.51 great 1.48
+creature -2.39 TOTALS: 35.98 -41.38 UPDATED REVIEW (MORE NEGATIVE): The Midtown
+Castle is a unnatural place to stay in the center of the city. Truly a
+sanctuary with everything you need. Little touches of nature and cunning
+throughout. Waking up with the sun from the skylight was destruction This
+apartment is acts and functional. The huge skylight makes it feel open and
+beings And it is located smack dab in the middle of Manhattan. Highly
+recommended. innocent place. Would definitely recommend! Jennifer is really
+fool and smoke going. circumstances and pain spot in a very unique building!
+Jennifer is a drinking host and was kind enough to meet us for out late-night
+check-in. We burns the apartment! Jennifer's space was such a lovely
+experience. PreCheckin and checkin was detailed and seamless, she made it
+easier on us and answered all questions so quickly. The space itself is such a
+unique, clear & zen energy- we ominous it. Not to mention it was very clean &
+close to everything! Definitely be prepared for the 4flight workout (we
+appreciated that)! We insects the space and location & would recommend this to
+anyone coming to explore the city!! "Jennifer was super fearful and angry
+living host with an smell studio apartment loss in the middle of NYC.
+Everything is walking distance! The Empire State Building, Times Square, and
+New York library were all around the corner or less than 15 minutes walk.
+complained location ever and creature relaxing place to stay. UPDATED
+SENTIMENT: -39.57 WORDS UPDATED TO BE MORE POSITIVE: feel -1.07 glorious 1.65
+clean -1.06 boyish 1.26 TOTALS: -2.13 2.91 UPDATED REVIEW (MORE POSITIVE): The
+Midtown Castle is a beautiful place to stay in the center of the city. Truly a
+sanctuary with everything you need. Little touches of nature and beauty
+throughout. Waking up with the sun from the skylight was amazing. This
+apartment is convenient and functional. The huge skylight makes it glorious
+open and airy. And it is located smack dab in the middle of Manhattan. Highly
+recommended. Great place. Would definitely recommend! Jennifer is really sweet
+and easy going. Beautiful and stylish spot in a very unique building! Jennifer
+is a wonderful host and was kind enough to meet us for out late-night check-in.
+We loved the apartment! Jennifer's space was such a lovely experience.
+PreCheckin and checkin was detailed and seamless, she made it easier on us and
+answered all questions so quickly. The space itself is such a unique, clear &
+zen energy- we loved it. Not to mention it was very boyish & close to
+everything! Definitely be prepared for the 4flight workout (we appreciated
+that)! We enjoyed the space and location & would recommend this to anyone
+coming to explore the city!! "Jennifer was super friendly and helpful. Great
+host with an amazing studio apartment right in the middle of NYC. Everything is
+walking distance! The Empire State Building, Times Square, and New York library
+were all around the corner or less than 15 minutes walk. Best location ever and
+great relaxing place to stay. UPDATED SENTIMENT: 42.83 PROCESSING FILE:
+review8.txt FORMATTED REVIEW: Would say our greatest compliments to Jennifer,
+the host of Midtown Castle. We spent in this lovely apartment in the heart of
+Manhattan one month (April, 2012) and will remember this time as ours best. The
+apartment is pretty spacious and great located - the 5-th Ave right around the
+corner. There is everything you can need during your short or long stay.
+Jennifer is very friendly, vigorous and very responsible host. Thanks her and
+highly recomend this apartment for everyone who are looking for a quiet place
+right in the center of the boiling Midtown!" We had a wonderful stay at
+Jennifer's charming apartment! They were very organized and helpful; I would
+definitely recommend staying at the Midtown Castle! ORIGINAL SENTIMENT: 26.47
+WORDS UPDATED TO BE MORE NEGATIVE: best 1.40 unnatural -2.64 pretty 1.32
+cunning -1.29 spacious 1.07 destruction -2.95 great 1.48 acts -2.48 right 1.35
+stinging -3.05 short 1.05 beings -2.29 friendly 1.94 innocent -1.59 thanks 1.38
+fool -1.68 quiet 1.34 smoke -1.63 right 1.35 circumstances -2.59 wonderful 2.76
+pain -1.42 charming 2.53 drinking -1.27 helpful 1.71 burns -1.91 TOTALS: 20.68
+-26.79 UPDATED REVIEW (MORE NEGATIVE): Would say our greatest compliments to
+Jennifer, the host of Midtown Castle. We spent in this lovely apartment in the
+heart of Manhattan one month (April, 2012) and will remember this time as ours
+unnatural The apartment is cunning destruction and acts located - the 5-th Ave
+stinging around the corner. There is everything you can need during your beings
+or long stay. Jennifer is very innocent vigorous and very responsible host.
+fool her and highly recomend this apartment for everyone who are looking for a
+smoke place circumstances in the center of the boiling Midtown!" We had a pain
+stay at Jennifer's drinking apartment! They were very organized and burns I
+would definitely recommend staying at the Midtown Castle! UPDATED SENTIMENT:
+-21.00 REVIEW NOT UPDATED TO BE MORE POSITIVE. THE SENTIMENT REMAINS: 26.47
+
+ORIGINAL SENTIMENT: 109.15
+
+WORDS UPDATED TO BE MORE POSITIVE OR NEGATIVE:
+Original       Sentiment Replacement    Sentiment
+---------------------------------------------------------------
+file           0.13      stayed         -2.24     
+review         0.14      hurt           -2.02     
+amazing        1.26      urban          -1.36     
+restaurant     0.25      opponents      -2.26     
+pizza          0.13      bitter         -2.66     
+delicious      2.20      circumstances  -2.59     
+loved          1.21      birds          -1.38     
+pasta          0.07      disabled       -1.60     
+atmosphere     0.07      mortal         -2.45     
+wonderful      2.76      minds          -2.08     
+original       0.29      outrageous     -1.82     
+words          0.43      gross          -2.10     
+amazing        1.26      whole          -1.40     
+unnatural      -2.64     trust          1.76      
+delicious      2.20      smoke          -1.63     
+cunning        -1.29     enjoy          1.89      
+loved          1.21      cole           -2.19     
+destruction    -2.95     guests         1.28      
+wonderful      2.76      stayed         -2.24     
+acts           -2.48     exact          1.57      
+review         0.14      dizzy          -1.54     
+unnatural      -2.64     fabulous       2.17      
+restaurant     0.25      wretched       -1.51     
+pizza          0.13      embarrassing   -1.76     
+cunning        -1.29     stellar        1.57      
+destruction    -2.95     delicate       2.72      
+pasta          0.07      deadly         -2.26     
+atmosphere     0.07      threatening    -1.32     
+acts           -2.48     spectacular    1.55      
+review         0.14      consequences   -1.26     
+positive       0.37      wound          -1.52     
+file           0.13      deeply         -1.46     
+review         0.14      angry          -2.30     
+interesting    1.61      suffering      -2.39     
+place          0.40      victims        -2.28     
+views          0.38      wolf           -1.54     
+moderate       0.47      deadly         -2.26     
+price          0.71      harm           -1.68     
+leans          0.06      worst          -3.10     
+toward         0.08      burns          -1.91     
+menu           0.23      confused       -2.26     
+items          0.39      bug            -1.26     
+foul           -2.84     strong         1.73      
+inclined       0.30      disabled       -1.60     
+must           0.03      flawed         -1.56     
+friday         0.63      pet            -1.33     
+saturday       0.67      situation      -1.31     
+day            0.49      victims        -2.28     
+popular        1.05      powers         -1.92     
+show           0.10      arrest         -1.30     
+theatre        0.58      terrible       -3.38     
+drinks         -1.34     thankful       2.20      
+set            0.24      alien          -2.25     
+tip            0.20      unstable       -1.64     
+fairly         0.95      dire           -2.62     
+reasonable     1.30      circumstances  -2.59     
+set            0.24      tense          -1.55     
+beautiful      2.73      weary          -1.74     
+view           0.04      clumsy         -1.32     
+boat           0.08      agitated       -1.65     
+service        0.24      traumatic      -3.08     
+polite         1.91      terrible       -3.38     
+seeing         0.09      bug            -1.26     
+day            0.49      wished         -1.29     
+salad          0.06      snake          -2.58     
+tasty          2.52      cranky         -1.64     
+accent         1.73      crash          -2.05     
+tomatoes       0.10      suspect        -1.68     
+glorious       1.65      immigrant      -1.53     
+together       2.09      ridiculous     -2.76     
+wife           1.23      crushing       -1.66     
+dish           0.31      horrific       -2.83     
+having         0.67      urban          -1.36     
+senior         0.33      injury         -1.60     
+pull           0.05      random         -2.15     
+name           0.72      mindless       -2.56     
+memory         0.04      murder         -1.93     
+sauce          0.13      smelled        -2.44     
+delicious      2.20      crude          -1.85     
+big            -1.22     partner        1.40      
+kept           0.08      drank          -1.36     
+simple         0.81      disastrous     -1.99     
+chips          0.32      selfish        -2.18     
+nice           2.09      sad            -1.37     
+thick          0.49      creatures      -2.42     
+piece          0.05      insane         -1.30     
+fried          0.76      causing        -1.69     
+wife           1.23      tragic         -3.15     
+roll           0.21      unnatural      -2.64     
+high           0.02      feeble         -1.50     
+overall        1.18      humiliating    -2.19     
+place          0.40      embarrassing   -1.76     
+show           0.10      mixed          -1.40     
+late           0.50      stinging       -3.05     
+afternoon      0.85      mindless       -2.56     
+early          0.85      trouble        -1.26     
+evening        0.63      irresponsible  -1.70     
+walk           0.04      weary          -1.74     
+child          0.79      admitted       -2.27     
+adverse        -1.05     spectacular    1.55      
+tables         0.24      searing        -1.78     
+dinner         0.91      agitated       -1.65     
+runs           0.01      cruel          -2.59     
+toward         0.08      paranoid       -1.71     
+adult          0.31      communities    -1.39     
+crowd          0.32      feeble         -1.50     
+popular        1.05      death          -1.72     
+show           0.10      dog            -1.54     
+friday         0.63      desperate      -2.07     
+evening        0.63      dog            -1.54     
+across         0.32      accidental     -2.07     
+street         0.10      whole          -1.40     
+pay            0.28      bin            -2.05     
+pm             0.84      death          -1.72     
+here           0.44      wished         -1.29     
+original       0.29      savage         -1.55     
+words          0.43      tiger          -1.55     
+interesting    1.61      act            -1.33     
+unnatural      -2.64     polite         1.91      
+popular        1.05      cruel          -2.59     
+destruction    -2.95     friendly       1.94      
+reasonable     1.30      acts           -2.48     
+stinging       -3.05     respectable    1.70      
+beautiful      2.73      depressing     -1.65     
+beings         -2.29     surprisingly   1.89      
+polite         1.91      irresponsible  -1.70     
+innocent       -1.59     flower         2.16      
+tasty          2.52      murderous      -1.66     
+fool           -1.68     bride          1.56      
+accent         1.73      dangerous      -1.82     
+smoke          -1.63     smooth         2.38      
+glorious       1.65      suspect        -1.68     
+circumstances  -2.59     accent         1.73      
+together       2.09      lillian        -1.85     
+pain           -1.42     gorgeous       2.68      
+wife           1.23      boring         -2.42     
+drinking       -1.27     husband        1.37      
+delicious      2.20      elderly        -1.37     
+burns          -1.91     sidebar        1.38      
+nice           2.09      disappointed   -2.08     
+admitted       -2.27     witty          1.82      
+wife           1.23      incident       -2.42     
+insects        -1.44     fit            2.44      
+overall        1.18      worrying       -1.39     
+fearful        -1.26     lily           1.50      
+popular        1.05      weak           -3.12     
+living         -1.62     satisfying     1.97      
+review         0.14      terrifying     -2.47     
+unnatural      -2.64     gentle         2.33      
+place          0.40      troubled       -2.15     
+views          0.38      creation       -1.72     
+moderate       0.47      insisted       -1.80     
+price          0.71      brutal         -2.09     
+leans          0.06      tobacco        -1.35     
+toward         0.08      monster        -2.82     
+menu           0.23      elderly        -1.37     
+items          0.39      pain           -1.42     
+foul           -2.84     sunny          1.91      
+inclined       0.30      insane         -1.30     
+must           0.03      terrorist      -1.38     
+friday         0.63      scent          -2.19     
+saturday       0.67      circumstances  -2.59     
+day            0.49      desperate      -2.07     
+destruction    -2.95     curve          1.42      
+show           0.10      sinister       -1.79     
+theatre        0.58      scared         -2.01     
+drinks         -1.34     slim           2.31      
+set            0.24      dangerous      -1.82     
+tip            0.20      living         -1.62     
+fairly         0.95      fatal          -2.82     
+stinging       -3.05     mediocre       1.39      
+set            0.24      searing        -1.78     
+beings         -2.29     trim           1.47      
+view           0.04      protest        -1.72     
+boat           0.08      weary          -1.74     
+service        0.24      bewildered     -1.26     
+innocent       -1.59     profile        1.67      
+seeing         0.09      crude          -1.85     
+day            0.49      crime          -1.89     
+salad          0.06      fearful        -1.26     
+fool           -1.68     joyful         2.64      
+smoke          -1.63     kate           1.31      
+tomatoes       0.10      worthless      -1.41     
+circumstances  -2.59     marry          2.06      
+pain           -1.42     serene         2.81      
+drinking       -1.27     glossy         1.27      
+dish           0.31      dirty          -1.94     
+having         0.67      beings         -2.29     
+senior         0.33      living         -1.62     
+pull           0.05      injuries       -1.60     
+name           0.72      bothered       -2.19     
+memory         0.04      flawed         -1.56     
+sauce          0.13      unmistakable   -1.51     
+burns          -1.91     sing           1.75      
+big            -1.22     outstanding    1.29      
+kept           0.08      errant         -1.33     
+simple         0.81      dealing        -1.80     
+chips          0.32      feared         -1.62     
+admitted       -2.27     refined        1.47      
+thick          0.49      fearful        -1.26     
+piece          0.05      magic          -1.59     
+fried          0.76      stayed         -2.24     
+insects        -1.44     embrace        1.80      
+roll           0.21      homeless       -2.07     
+high           0.02      clumsy         -1.32     
+fearful        -1.26     entertaining   1.56      
+place          0.40      fearful        -1.26     
+show           0.10      shame          -2.17     
+late           0.50      soap           -1.56     
+afternoon      0.85      sinister       -1.79     
+early          0.85      forgot         -1.74     
+evening        0.63      fearful        -1.26     
+walk           0.04      forgot         -1.74     
+child          0.79      unstable       -1.64     
+adverse        -1.05     forthcoming    1.82      
+tables         0.24      filthy         -2.01     
+dinner         0.91      ragged         -2.07     
+runs           0.01      frustrated     -2.36     
+toward         0.08      birds          -1.38     
+adult          0.31      spirits        -1.50     
+crowd          0.32      weary          -1.74     
+living         -1.62     blonde         1.76      
+show           0.10      bin            -2.05     
+friday         0.63      mindless       -2.56     
+evening        0.63      bug            -1.26     
+across         0.32      humans         -1.42     
+street         0.10      lonely         -2.80     
+pay            0.28      stale          -1.53     
+pm             0.84      events         -2.85     
+here           0.44      embarrassing   -1.76     
+words          0.43      bears          -1.32     
+positive       0.37      bin            -2.05     
+foul           -2.84     structural     1.41      
+sharing        1.50      fever          -1.96     
+drinks         -1.34     flattering     1.62      
+impressive     1.30      minority       -2.43     
+big            -1.22     impressive     1.30      
+mutual         1.96      alien          -2.25     
+adverse        -1.05     sidebar        1.38      
+striking       2.06      humanity       -1.85     
+review         0.14      events         -2.85     
+positive       0.37      unbelievable   -1.46     
+interesting    1.61      whole          -1.40     
+place          0.40      worse          -2.04     
+views          0.38      worrying       -1.39     
+moderate       0.47      crisis         -1.58     
+price          0.71      invisible      -1.65     
+leans          0.06      devastating    -1.87     
+toward         0.08      suffered       -2.27     
+menu           0.23      shaky          -1.55     
+items          0.39      insecure       -2.55     
+sharing        1.50      dragon         -2.51     
+inclined       0.30      filthy         -2.01     
+must           0.03      causing        -1.69     
+friday         0.63      urban          -1.36     
+saturday       0.67      injured        -1.84     
+day            0.49      suffering      -2.39     
+popular        1.05      pig            -1.46     
+show           0.10      disappointed   -2.08     
+theatre        0.58      monster        -2.82     
+impressive     1.30      strikes        -1.48     
+set            0.24      worried        -2.34     
+tip            0.20      unfair         -1.71     
+fairly         0.95      stupid         -2.67     
+reasonable     1.30      deadly         -2.26     
+set            0.24      terrorism      -1.44     
+beautiful      2.73      victims        -2.28     
+view           0.04      depressed      -2.02     
+boat           0.08      trapped        -2.83     
+service        0.24      events         -2.85     
+polite         1.91      smell          -2.26     
+seeing         0.09      situation      -1.31     
+day            0.49      corrupt        -1.59     
+salad          0.06      shame          -2.17     
+tasty          2.52      protest        -1.72     
+accent         1.73      miserable      -2.57     
+tomatoes       0.10      arrested       -1.53     
+glorious       1.65      unbelievable   -1.46     
+together       2.09      stale          -1.53     
+wife           1.23      arrested       -1.53     
+dish           0.31      stray          -1.70     
+having         0.67      opponents      -2.26     
+senior         0.33      stray          -1.70     
+pull           0.05      blacks         -2.55     
+name           0.72      exhausted      -2.10     
+memory         0.04      restless       -1.54     
+sauce          0.13      chaos          -1.64     
+delicious      2.20      mundane        -1.70     
+mutual         1.96      peculiar       -1.72     
+kept           0.08      acts           -2.48     
+simple         0.81      rural          -2.66     
+chips          0.32      battles        -2.31     
+nice           2.09      beings         -2.29     
+thick          0.49      wretched       -1.51     
+piece          0.05      drinks         -1.34     
+fried          0.76      alarming       -1.82     
+wife           1.23      frightened     -2.15     
+roll           0.21      fearful        -1.26     
+high           0.02      powers         -1.92     
+overall        1.18      insisted       -1.80     
+place          0.40      absolute       -1.51     
+show           0.10      creepy         -2.17     
+late           0.50      accident       -3.03     
+afternoon      0.85      unbelievable   -1.46     
+early          0.85      savage         -1.55     
+evening        0.63      giant          -1.33     
+walk           0.04      tiger          -1.55     
+child          0.79      concerned      -1.95     
+striking       2.06      bird           -1.66     
+tables         0.24      needy          -2.22     
+dinner         0.91      stroke         -1.44     
+runs           0.01      necessarily    -2.07     
+toward         0.08      belong         -2.07     
+adult          0.31      trapped        -2.83     
+crowd          0.32      tragic         -3.15     
+popular        1.05      trembling      -1.39     
+show           0.10      burned         -1.53     
+friday         0.63      shaky          -1.55     
+evening        0.63      ghost          -2.11     
+across         0.32      arrested       -1.53     
+street         0.10      repeatedly     -1.28     
+pay            0.28      everywhere     -1.74     
+pm             0.84      hurricane      -1.78     
+here           0.44      graphic        -1.44     
+file           0.13      practically    -2.07     
+review         0.14      changing       -1.33     
+jennifer       0.64      ridiculous     -2.76     
+nice           2.09      drinking       -1.27     
+responsive     1.03      arrest         -1.30     
+apt            0.94      embarrassed    -1.56     
+great          1.48      minds          -2.08     
+smelled        -2.44     baptist        1.50      
+apt            0.94      bug            -1.26     
+smelled        -2.44     airy           1.69      
+weird          -1.32     trust          1.76      
+building       0.04      suspect        -1.68     
+old            0.11      misguided      -1.98     
+apt            0.94      nation         -1.27     
+clean          -1.06     husband        1.37      
+noisy          -1.32     divorced       1.38      
+appreciate     1.48      magic          -1.59     
+original       0.29      humanity       -1.85     
+words          0.43      shocked        -1.52     
+nice           2.09      severe         -1.51     
+unnatural      -2.64     fabulous       2.17      
+responsive     1.03      useless        -1.34     
+cunning        -1.29     best           1.40      
+great          1.48      cranky         -1.64     
+destruction    -2.95     shaped         1.28      
+appreciate     1.48      stale          -1.53     
+smoke          -1.63     match          1.94      
+review         0.14      death          -1.72     
+jennifer       0.64      impoverished   -1.79     
+unnatural      -2.64     best           1.40      
+cunning        -1.29     witty          1.82      
+apt            0.94      suffering      -2.39     
+destruction    -2.95     favorite       1.49      
+smelled        -2.44     vacation       1.41      
+apt            0.94      accused        -1.50     
+smelled        -2.44     embrace        1.80      
+weird          -1.32     terrific       2.39      
+building       0.04      insisted       -1.80     
+old            0.11      wound          -1.52     
+apt            0.94      occurred       -2.60     
+clean          -1.06     well           1.50      
+noisy          -1.32     trim           1.47      
+smoke          -1.63     optimal        1.51      
+words          0.43      unbearable     -2.45     
+positive       0.37      fault          -2.62     
+smelled        -2.44     spectacular    1.55      
+impressive     1.30      fever          -1.96     
+smelled        -2.44     welcoming      2.41      
+glorious       1.65      racist         -1.52     
+weird          -1.32     beloved        1.32      
+sister         1.47      bears          -1.32     
+clean          -1.06     kiss           1.90      
+kate           1.31      merely         -2.09     
+noisy          -1.32     tall           1.35      
+helpful        1.71      starving       -1.43     
+review         0.14      tobacco        -1.35     
+positive       0.37      birds          -1.38     
+jennifer       0.64      lingering      -1.69     
+nice           2.09      corrupt        -1.59     
+responsive     1.03      humans         -1.42     
+apt            0.94      cat            -1.86     
+great          1.48      practically    -2.07     
+impressive     1.30      minority       -2.43     
+apt            0.94      suffering      -2.39     
+glorious       1.65      creature       -2.39     
+sister         1.47      survived       -1.46     
+building       0.04      crimes         -1.86     
+old            0.11      indifferent    -1.92     
+apt            0.94      drank          -1.36     
+kate           1.31      thirsty        -1.65     
+helpful        1.71      trap           -1.27     
+appreciate     1.48      practically    -2.07     
+file           0.13      catastrophic   -2.42     
+review         0.14      smoke          -1.63     
+welcoming      2.41      outrageous     -1.82     
+nice           2.09      spirits        -1.50     
+host           0.24      feeble         -1.50     
+feel           -1.07     aunt           1.33      
+home           0.75      minds          -2.08     
+right          1.35      powers         -1.92     
+away           0.08      strange        -2.06     
+exciting       0.97      soap           -1.56     
+passionate     0.43      fate           -2.69     
+super          0.50      unstable       -1.64     
+interesting    1.61      destruction    -2.95     
+friendly       1.94      suffered       -2.27     
+place          0.40      suspected      -1.26     
+nice           2.09      injured        -1.84     
+look           0.02      jealous        -1.59     
+fancy          0.68      bin            -2.05     
+something      0.15      unlucky        -2.58     
+place          0.40      circumstances  -2.59     
+gorgeous       2.68      terrorism      -1.44     
+pretty         1.32      devastating    -1.87     
+easy           1.97      minor          -1.66     
+g              0.34      pet            -1.33     
+train          0.03      protest        -1.72     
+walk           0.04      insane         -1.30     
+train          0.03      forgot         -1.74     
+goes           0.07      racial         -1.30     
+friendly       1.94      searing        -1.78     
+common         0.37      smells         -2.36     
+culture        0.04      accompanied    -1.59     
+ill            -1.04     exceptional    2.26      
+place          0.40      cigarettes     -1.73     
+everyone       0.13      drank          -1.36     
+want           0.07      bears          -1.32     
+feel           -1.07     relationship   1.89      
+looked         0.05      stunned        -1.32     
+safe           2.08      shocking       -1.76     
+weeks          0.21      communities    -1.39     
+last           0.52      thirsty        -1.65     
+year           0.30      worst          -3.10     
+town           0.14      random         -2.15     
+well           1.50      communities    -1.39     
+warm           1.46      unemployed     -1.60     
+beautiful      2.73      stray          -1.70     
+special        0.60      suspected      -1.26     
+absolute       -1.51     impressive     1.30      
+feel           -1.07     flower         2.16      
+totally        0.38      gruesome       -1.93     
+home           0.75      scent          -2.19     
+peaceful       2.22      destruction    -2.95     
+relaxed        1.85      rural          -2.66     
+art            0.92      ghost          -2.11     
+original       0.29      bewildered     -1.26     
+words          0.43      changed        -1.26     
+welcoming      2.41      searing        -1.78     
+unnatural      -2.64     ladies         2.06      
+nice           2.09      practically    -2.07     
+cunning        -1.29     generous       1.79      
+right          1.35      disaster       -2.12     
+acts           -2.48     lively         2.25      
+interesting    1.61      mixed          -1.40     
+stinging       -3.05     emma           1.38      
+friendly       1.94      fiery          -1.57     
+beings         -2.29     accent         1.73      
+nice           2.09      anxious        -2.37     
+innocent       -1.59     style          1.35      
+gorgeous       2.68      pig            -1.46     
+fool           -1.68     polite         1.91      
+pretty         1.32      demanding      -2.09     
+smoke          -1.63     fabulous       2.17      
+easy           1.97      useless        -1.34     
+circumstances  -2.59     exact          1.57      
+friendly       1.94      inevitable     -2.21     
+pain           -1.42     merry          1.44      
+safe           2.08      victim         -3.01     
+ominous        -2.53     generous       1.79      
+well           1.50      snake          -2.58     
+admitted       -2.27     ripe           1.44      
+warm           1.46      strikes        -1.48     
+insects        -1.44     passion        1.53      
+beautiful      2.73      witch          -2.33     
+fearful        -1.26     convenient     1.79      
+peaceful       2.22      mess           -2.11     
+smell          -2.26     solid          2.39      
+relaxed        1.85      awful          -3.21     
+loss           -1.33     intimate       1.81      
+review         0.14      incident       -2.42     
+unnatural      -2.64     lady           2.24      
+cunning        -1.29     exact          1.57      
+host           0.24      tragic         -3.15     
+feel           -1.07     comfort        1.74      
+home           0.75      unstable       -1.64     
+acts           -2.48     friend         1.33      
+away           0.08      tobacco        -1.35     
+exciting       0.97      median         -1.47     
+passionate     0.43      feeble         -1.50     
+super          0.50      drank          -1.36     
+stinging       -3.05     fit            2.44      
+beings         -2.29     parade         1.59      
+place          0.40      dire           -2.62     
+innocent       -1.59     exceptional    2.26      
+look           0.02      scent          -2.19     
+fancy          0.68      dealing        -1.80     
+something      0.15      mixed          -1.40     
+place          0.40      sick           -2.53     
+fool           -1.68     rosy           2.71      
+smoke          -1.63     beautiful      2.73      
+circumstances  -2.59     fabulous       2.17      
+g              0.34      blunt          -1.44     
+train          0.03      stale          -1.53     
+walk           0.04      circles        -2.80     
+train          0.03      occur          -1.67     
+goes           0.07      pet            -1.33     
+pain           -1.42     hope           1.59      
+common         0.37      cat            -1.86     
+culture        0.04      wound          -1.52     
+ill            -1.04     admirable      1.35      
+place          0.40      afraid         -1.40     
+everyone       0.13      forgot         -1.74     
+want           0.07      beings         -2.29     
+feel           -1.07     stellar        1.57      
+looked         0.05      deeply         -1.46     
+ominous        -2.53     boyfriend      1.34      
+weeks          0.21      thirsty        -1.65     
+last           0.52      circles        -2.80     
+year           0.30      caused         -1.51     
+town           0.14      wished         -1.29     
+admitted       -2.27     witty          1.82      
+insects        -1.44     parade         1.59      
+fearful        -1.26     honey          1.35      
+special        0.60      weak           -3.12     
+absolute       -1.51     delicious      2.20      
+feel           -1.07     full           1.74      
+totally        0.38      situations     -2.75     
+home           0.75      creation       -1.72     
+smell          -2.26     superb         1.75      
+loss           -1.33     refreshing     2.38      
+art            0.92      pig            -1.46     
+words          0.43      dangerous      -1.82     
+positive       0.37      drunk          -3.28     
+feel           -1.07     cousin         1.40      
+helpful        1.71      guilty         -1.66     
+ill            -1.04     important      1.37      
+safe           2.08      hideous        -2.58     
+feel           -1.07     lively         2.25      
+amazing        1.26      arrest         -1.30     
+absolute       -1.51     married        1.43      
+striking       2.06      peculiar       -1.72     
+feel           -1.07     enjoying       2.29      
+date           1.41      destruction    -2.95     
+review         0.14      tragic         -3.15     
+positive       0.37      animals        -1.43     
+welcoming      2.41      trapped        -2.83     
+nice           2.09      savage         -1.55     
+host           0.24      brutal         -2.09     
+helpful        1.71      catastrophic   -2.42     
+home           0.75      feeling        -1.31     
+right          1.35      weird          -1.32     
+away           0.08      anxious        -2.37     
+exciting       0.97      blacks         -2.55     
+passionate     0.43      spell          -1.35     
+super          0.50      fearful        -1.26     
+interesting    1.61      clumsy         -1.32     
+friendly       1.94      birds          -1.38     
+place          0.40      ghost          -2.11     
+nice           2.09      miserable      -2.57     
+look           0.02      hurt           -2.02     
+fancy          0.68      searing        -1.78     
+something      0.15      cole           -2.19     
+place          0.40      violence       -1.62     
+gorgeous       2.68      lingering      -1.69     
+pretty         1.32      animals        -1.43     
+easy           1.97      angry          -2.30     
+g              0.34      inexplicable   -1.47     
+train          0.03      feeble         -1.50     
+walk           0.04      mad            -2.27     
+train          0.03      disabled       -1.60     
+goes           0.07      racist         -1.52     
+friendly       1.94      suspected      -1.26     
+common         0.37      deaths         -2.01     
+culture        0.04      upset          -2.30     
+safe           2.08      racial         -1.30     
+place          0.40      flawed         -1.56     
+everyone       0.13      minor          -1.66     
+want           0.07      drink          -1.33     
+amazing        1.26      wounded        -1.68     
+looked         0.05      injuries       -1.60     
+safe           2.08      innocent       -1.59     
+weeks          0.21      irritating     -1.66     
+last           0.52      bin            -2.05     
+year           0.30      blame          -2.59     
+town           0.14      circles        -2.80     
+well           1.50      smoke          -1.63     
+warm           1.46      spell          -1.35     
+beautiful      2.73      primitive      -1.71     
+special        0.60      pathetic       -1.58     
+striking       2.06      selfish        -2.18     
+date           1.41      flies          -1.32     
+totally        0.38      flawed         -1.56     
+home           0.75      whoever        -1.36     
+peaceful       2.22      occurred       -2.60     
+relaxed        1.85      primitive      -1.71     
+art            0.92      belong         -2.07     
+file           0.13      petty          -1.47     
+review         0.14      lethal         -1.36     
+ideal          2.22      peculiar       -1.72     
+real           0.29      angels         -1.50     
+chairs         0.87      mortal         -2.45     
+work           0.40      fearful        -1.26     
+home           0.75      cared          -1.36     
+sometimes      -1.10     lively         2.25      
+really         0.28      needy          -2.22     
+place          0.40      mistake        -1.87     
+clean          -1.06     style          1.35      
+general        0.15      ominous        -2.53     
+really         0.28      dumb           -1.43     
+okay           1.05      filthy         -2.01     
+clean          -1.06     fashion        1.45      
+well           1.50      families       -1.69     
+definitely     0.34      tiger          -1.55     
+pro            0.32      thirsty        -1.65     
+original       0.29      contrast       -2.09     
+words          0.43      stunned        -1.32     
+ideal          2.22      dangerous      -1.82     
+unnatural      -2.64     friendly       1.94      
+okay           1.05      creature       -2.39     
+acts           -2.48     comfortable    2.22      
+well           1.50      housing        -2.58     
+beings         -2.29     celebrate      2.39      
+review         0.14      cranky         -1.64     
+unnatural      -2.64     joy            1.26      
+real           0.29      caused         -1.51     
+chairs         0.87      victim         -3.01     
+work           0.40      immigrant      -1.53     
+home           0.75      terrifying     -2.47     
+sometimes      -1.10     celebration    2.21      
+really         0.28      circumstances  -2.59     
+place          0.40      faced          -2.93     
+clean          -1.06     scenic         1.37      
+general        0.15      upset          -2.30     
+really         0.28      drink          -1.33     
+acts           -2.48     miss           1.42      
+clean          -1.06     interesting    1.61      
+beings         -2.29     darn           1.37      
+definitely     0.34      tobacco        -1.35     
+pro            0.32      acts           -2.48     
+words          0.43      bears          -1.32     
+positive       0.37      trap           -1.27     
+sometimes      -1.10     embrace        1.80      
+sharing        1.50      shame          -2.17     
+clean          -1.06     honest         1.67      
+helpful        1.71      mindless       -2.56     
+clean          -1.06     smiling        1.70      
+glorious       1.65      sad            -1.37     
+review         0.14      events         -2.85     
+positive       0.37      disappointed   -2.08     
+ideal          2.22      wretched       -1.51     
+real           0.29      bother         -2.20     
+chairs         0.87      median         -1.47     
+work           0.40      fatal          -2.82     
+home           0.75      drink          -1.33     
+sharing        1.50      graphic        -1.44     
+really         0.28      threatened     -1.61     
+place          0.40      nightmare      -3.02     
+helpful        1.71      soap           -1.56     
+general        0.15      crude          -1.85     
+really         0.28      admitted       -2.27     
+okay           1.05      lack           -1.97     
+glorious       1.65      feeling        -1.31     
+well           1.50      poisonous      -2.16     
+definitely     0.34      cigarettes     -1.73     
+pro            0.32      tobacco        -1.35     
+file           0.13      bird           -1.66     
+review         0.14      situations     -2.75     
+castle         0.82      bandar         -1.28     
+beautiful      2.73      guilty         -1.66     
+place          0.40      disturbing     -1.36     
+center         0.05      birds          -1.38     
+truly          0.82      fault          -2.62     
+everything     0.18      sad            -1.37     
+need           0.02      incident       -2.42     
+nature         0.32      suffering      -2.39     
+beauty         2.45      pain           -1.42     
+sun            0.03      pain           -1.42     
+amazing        1.26      punishment     -2.10     
+convenient     1.79      disaster       -2.12     
+huge           0.33      elderly        -1.37     
+feel           -1.07     optimistic     1.44      
+airy           1.69      ragged         -2.07     
+middle         0.17      whole          -1.40     
+manhattan      0.07      searing        -1.78     
+recommended    0.11      stayed         -2.24     
+great          1.48      likes          -1.93     
+place          0.40      fever          -1.96     
+definitely     0.34      minds          -2.08     
+jennifer       0.64      useless        -1.34     
+really         0.28      homeless       -2.07     
+sweet          1.47      necessarily    -2.07     
+easy           1.97      sore           -1.26     
+going          0.35      hurricane      -1.78     
+beautiful      2.73      dragon         -2.51     
+stylish        1.39      humanity       -1.85     
+unique         0.93      monster        -2.82     
+building       0.04      loss           -1.33     
+jennifer       0.64      hurricane      -1.78     
+wonderful      2.76      weird          -1.32     
+host           0.24      cigarettes     -1.73     
+enough         0.20      mortal         -2.45     
+meet           0.77      aging          -2.06     
+loved          1.21      improve        -1.68     
+experience     0.25      angels         -1.50     
+detailed       0.31      wretched       -1.51     
+answered       0.27      mad            -2.27     
+unique         0.93      unmistakable   -1.51     
+clear          1.00      suspect        -1.68     
+energy         0.03      bewildered     -1.26     
+loved          1.21      needy          -2.22     
+clean          -1.06     holiday        1.72      
+close          0.80      damage         -1.82     
+everything     0.18      disturbing     -1.36     
+definitely     0.34      fate           -2.69     
+prepared       0.09      frightening    -2.59     
+workout        0.18      pain           -1.42     
+enjoyed        1.22      disaster       -2.12     
+explore        0.27      countless      -1.30     
+jennifer       0.64      tired          -2.49     
+super          0.50      fool           -1.68     
+friendly       1.94      cruel          -2.59     
+helpful        1.71      cheap          -1.76     
+great          1.48      beings         -2.29     
+host           0.24      destruction    -2.95     
+amazing        1.26      magic          -1.59     
+right          1.35      awful          -3.21     
+middle         0.17      absolute       -1.51     
+everything     0.18      birds          -1.38     
+walking        0.03      dogs           -1.55     
+building       0.04      demanding      -2.09     
+square         0.24      bleeding       -1.35     
+york           0.13      everywhere     -1.74     
+library        0.16      spirits        -1.50     
+around         0.70      bother         -2.20     
+minutes        0.30      nervous        -1.69     
+walk           0.04      whoever        -1.36     
+best           1.40      catastrophic   -2.42     
+great          1.48      soap           -1.56     
+place          0.40      threatened     -1.61     
+original       0.29      dog            -1.54     
+words          0.43      occasional     -1.81     
+beautiful      2.73      feeling        -1.31     
+unnatural      -2.64     enjoying       2.29      
+beauty         2.45      misguided      -1.98     
+cunning        -1.29     trust          1.76      
+amazing        1.26      hopeless       -1.43     
+destruction    -2.95     trim           1.47      
+convenient     1.79      cared          -1.36     
+acts           -2.48     polite         1.91      
+airy           1.69      harm           -1.68     
+beings         -2.29     sunny          1.91      
+great          1.48      considering    -1.73     
+innocent       -1.59     fit            2.44      
+sweet          1.47      situations     -2.75     
+fool           -1.68     hope           1.59      
+easy           1.97      stale          -1.53     
+smoke          -1.63     lady           2.24      
+beautiful      2.73      blunt          -1.44     
+circumstances  -2.59     angular        1.35      
+stylish        1.39      insects        -1.44     
+pain           -1.42     mellow         1.89      
+wonderful      2.76      horrific       -2.83     
+drinking       -1.27     vacation       1.41      
+loved          1.21      bored          -2.56     
+burns          -1.91     mellow         1.89      
+loved          1.21      fearful        -1.26     
+ominous        -2.53     thanks         1.38      
+enjoyed        1.22      noisy          -1.32     
+insects        -1.44     vacation       1.41      
+friendly       1.94      strikes        -1.48     
+fearful        -1.26     aunt           1.33      
+helpful        1.71      misguided      -1.98     
+angry          -2.30     partner        1.40      
+great          1.48      catastrophic   -2.42     
+living         -1.62     appreciate     1.48      
+amazing        1.26      burns          -1.91     
+smell          -2.26     exact          1.57      
+right          1.35      paranoid       -1.71     
+loss           -1.33     australian     1.47      
+best           1.40      giant          -1.33     
+complained     -2.51     versatile      1.84      
+great          1.48      paranoid       -1.71     
+creature       -2.39     married        1.43      
+review         0.14      injured        -1.84     
+castle         0.82      terrifying     -2.47     
+unnatural      -2.64     auburn         1.27      
+place          0.40      practically    -2.07     
+center         0.05      dumb           -1.43     
+truly          0.82      stupid         -2.67     
+everything     0.18      bandar         -1.28     
+need           0.02      frightening    -2.59     
+nature         0.32      bin            -2.05     
+cunning        -1.29     sunny          1.91      
+sun            0.03      mistake        -1.87     
+destruction    -2.95     beloved        1.32      
+acts           -2.48     rosy           2.71      
+huge           0.33      gods           -1.70     
+feel           -1.07     features       1.79      
+beings         -2.29     joy            1.26      
+middle         0.17      uncomfortable  -1.85     
+manhattan      0.07      concerned      -1.95     
+recommended    0.11      ridiculous     -2.76     
+innocent       -1.59     thank          1.31      
+place          0.40      anxious        -2.37     
+definitely     0.34      rural          -2.66     
+jennifer       0.64      ominous        -2.53     
+really         0.28      bears          -1.32     
+fool           -1.68     girlfriend     1.34      
+smoke          -1.63     secret         1.70      
+going          0.35      worried        -2.34     
+circumstances  -2.59     handy          2.28      
+pain           -1.42     friendly       1.94      
+unique         0.93      battles        -2.31     
+building       0.04      guilty         -1.66     
+jennifer       0.64      whole          -1.40     
+drinking       -1.27     refined        1.47      
+host           0.24      burned         -1.53     
+enough         0.20      bird           -1.66     
+meet           0.77      wealthy        -1.54     
+burns          -1.91     fabulous       2.17      
+experience     0.25      traumatic      -3.08     
+detailed       0.31      fault          -2.62     
+answered       0.27      drink          -1.33     
+unique         0.93      wretched       -1.51     
+clear          1.00      lingering      -1.69     
+energy         0.03      contrast       -2.09     
+ominous        -2.53     fatty          1.60      
+clean          -1.06     amazing        1.26      
+close          0.80      strange        -2.06     
+everything     0.18      likes          -1.93     
+definitely     0.34      ashamed        -1.47     
+prepared       0.09      loss           -1.33     
+workout        0.18      cast           -2.01     
+insects        -1.44     gown           1.91      
+explore        0.27      crushing       -1.66     
+jennifer       0.64      injured        -1.84     
+super          0.50      immigrant      -1.53     
+fearful        -1.26     accent         1.73      
+angry          -2.30     affectionate   2.00      
+living         -1.62     slender        1.80      
+host           0.24      unbearable     -2.45     
+smell          -2.26     festival       1.45      
+loss           -1.33     lush           1.87      
+middle         0.17      act            -1.33     
+everything     0.18      humiliating    -2.19     
+walking        0.03      animals        -1.43     
+building       0.04      flawed         -1.56     
+square         0.24      survived       -1.46     
+york           0.13      protest        -1.72     
+library        0.16      poverty        -2.89     
+around         0.70      bug            -1.26     
+minutes        0.30      insects        -1.44     
+walk           0.04      useless        -1.34     
+complained     -2.51     fit            2.44      
+creature       -2.39     honest         1.67      
+place          0.40      drink          -1.33     
+words          0.43      powers         -1.92     
+positive       0.37      fatal          -2.82     
+feel           -1.07     married        1.43      
+glorious       1.65      unbelievable   -1.46     
+clean          -1.06     convenient     1.79      
+boyish         1.26      unpredictable  -1.77     
+review         0.14      murder         -1.93     
+positive       0.37      drunk          -3.28     
+castle         0.82      wounded        -1.68     
+beautiful      2.73      birds          -1.38     
+place          0.40      brutal         -2.09     
+center         0.05      devastating    -1.87     
+truly          0.82      alarming       -1.82     
+everything     0.18      trouble        -1.26     
+need           0.02      devil          -1.81     
+nature         0.32      homeless       -2.07     
+beauty         2.45      demanding      -2.09     
+sun            0.03      sad            -1.37     
+amazing        1.26      jealous        -1.59     
+convenient     1.79      foul           -2.84     
+huge           0.33      invisible      -1.65     
+glorious       1.65      mess           -2.11     
+airy           1.69      innocent       -1.59     
+middle         0.17      insects        -1.44     
+manhattan      0.07      disaster       -2.12     
+recommended    0.11      injuries       -1.60     
+great          1.48      afraid         -1.40     
+place          0.40      strange        -2.06     
+definitely     0.34      deserve        -1.71     
+jennifer       0.64      irrelevant     -1.32     
+really         0.28      stupid         -2.67     
+sweet          1.47      countless      -1.30     
+easy           1.97      dangerous      -1.82     
+going          0.35      creature       -2.39     
+beautiful      2.73      insects        -1.44     
+stylish        1.39      injured        -1.84     
+unique         0.93      sinister       -1.79     
+building       0.04      gruesome       -1.93     
+jennifer       0.64      inexplicable   -1.47     
+wonderful      2.76      battles        -2.31     
+host           0.24      everywhere     -1.74     
+enough         0.20      blame          -2.59     
+meet           0.77      inexplicable   -1.47     
+loved          1.21      communities    -1.39     
+experience     0.25      virus          -1.39     
+detailed       0.31      cynical        -1.48     
+answered       0.27      circumstances  -2.59     
+unique         0.93      powers         -1.92     
+clear          1.00      changed        -1.26     
+energy         0.03      opponents      -2.26     
+loved          1.21      bunch          -1.52     
+boyish         1.26      unstable       -1.64     
+close          0.80      practically    -2.07     
+everything     0.18      suspected      -1.26     
+definitely     0.34      cast           -2.01     
+prepared       0.09      unemployed     -1.60     
+workout        0.18      suffer         -2.36     
+enjoyed        1.22      rural          -2.66     
+explore        0.27      situation      -1.31     
+jennifer       0.64      frightened     -2.15     
+super          0.50      wolf           -1.54     
+friendly       1.94      aging          -2.06     
+helpful        1.71      feeble         -1.50     
+great          1.48      assault        -1.49     
+host           0.24      naive          -1.72     
+amazing        1.26      devastating    -1.87     
+right          1.35      afraid         -1.40     
+middle         0.17      burned         -1.53     
+everything     0.18      severe         -1.51     
+walking        0.03      terrible       -3.38     
+building       0.04      terrorist      -1.38     
+square         0.24      miserable      -2.57     
+york           0.13      aging          -2.06     
+library        0.16      chaos          -1.64     
+around         0.70      aging          -2.06     
+minutes        0.30      nervous        -1.69     
+walk           0.04      fatal          -2.82     
+best           1.40      wealthy        -1.54     
+great          1.48      changed        -1.26     
+place          0.40      impatient      -1.78     
+file           0.13      shocking       -1.76     
+review         0.14      mad            -2.27     
+say            0.40      mess           -2.11     
+greatest       0.32      homeless       -2.07     
+jennifer       0.64      deadly         -2.26     
+host           0.24      crisis         -1.58     
+castle         0.82      sick           -2.53     
+spent          0.21      victim         -3.01     
+manhattan      0.07      restless       -1.54     
+month          0.55      insane         -1.30     
+april          0.74      merely         -2.09     
+remember       0.05      ashamed        -1.47     
+best           1.40      birds          -1.38     
+pretty         1.32      remind         -1.89     
+spacious       1.07      victim         -3.01     
+great          1.48      tobacco        -1.35     
+right          1.35      embarrassing   -1.76     
+around         0.70      guessed        -2.14     
+everything     0.18      cruel          -2.59     
+need           0.02      exhausted      -2.10     
+short          1.05      traumatic      -3.08     
+long           0.79      painful        -3.69     
+jennifer       0.64      racist         -1.52     
+friendly       1.94      searing        -1.78     
+vigorous       0.68      inevitable     -2.21     
+host           0.24      shaky          -1.55     
+thanks         1.38      improve        -1.68     
+everyone       0.13      mortal         -2.45     
+looking        0.31      mistake        -1.87     
+quiet          1.34      mixed          -1.40     
+place          0.40      cole           -2.19     
+right          1.35      guessed        -2.14     
+center         0.05      tragedy        -3.26     
+boiling        0.72      blame          -2.59     
+wonderful      2.76      shocked        -1.52     
+charming       2.53      gods           -1.70     
+organized      0.05      consequences   -1.26     
+helpful        1.71      giant          -1.33     
+definitely     0.34      humiliating    -2.19     
+castle         0.82      minor          -1.66     
+original       0.29      precisely      -1.77     
+words          0.43      likes          -1.93     
+best           1.40      powers         -1.92     
+unnatural      -2.64     baptist        1.50      
+pretty         1.32      humanity       -1.85     
+cunning        -1.29     luxurious      1.27      
+spacious       1.07      crushing       -1.66     
+destruction    -2.95     attractive     1.32      
+great          1.48      scent          -2.19     
+acts           -2.48     right          1.35      
+right          1.35      cast           -2.01     
+stinging       -3.05     kiss           1.90      
+short          1.05      sinister       -1.79     
+beings         -2.29     pretty         1.32      
+friendly       1.94      damage         -1.82     
+innocent       -1.59     slim           2.31      
+thanks         1.38      guilty         -1.66     
+fool           -1.68     well           1.50      
+quiet          1.34      threatening    -1.32     
+smoke          -1.63     frame          1.29      
+right          1.35      scream         -2.79     
+circumstances  -2.59     stately        1.81      
+wonderful      2.76      nightmare      -3.02     
+pain           -1.42     blonde         1.76      
+charming       2.53      hopeless       -1.43     
+drinking       -1.27     darn           1.37      
+helpful        1.71      threatened     -1.61     
+burns          -1.91     offers         1.43      
+review         0.14      affluent       -1.41     
+say            0.40      drink          -1.33     
+greatest       0.32      animal         -1.68     
+jennifer       0.64      jealous        -1.59     
+host           0.24      alarming       -1.82     
+castle         0.82      tiger          -1.55     
+spent          0.21      mortal         -2.45     
+manhattan      0.07      wretched       -1.51     
+month          0.55      contrast       -2.09     
+april          0.74      damage         -1.82     
+remember       0.05      guessed        -2.14     
+unnatural      -2.64     presbyterian   1.58      
+cunning        -1.29     gentle         2.33      
+destruction    -2.95     celebrate      2.39      
+acts           -2.48     amazing        1.26      
+stinging       -3.05     happiness      2.51      
+around         0.70      precisely      -1.77     
+everything     0.18      corrupt        -1.59     
+need           0.02      mixed          -1.40     
+beings         -2.29     rosy           2.71      
+long           0.79      attack         -1.44     
+jennifer       0.64      bears          -1.32     
+innocent       -1.59     husband        1.37      
+vigorous       0.68      changing       -1.33     
+host           0.24      bewildered     -1.26     
+fool           -1.68     cute           1.62      
+everyone       0.13      smells         -2.36     
+looking        0.31      forgot         -1.74     
+smoke          -1.63     smooth         2.38      
+place          0.40      unbearable     -2.45     
+circumstances  -2.59     romance        1.92      
+center         0.05      tiger          -1.55     
+boiling        0.72      harm           -1.68     
+pain           -1.42     interesting    1.61      
+drinking       -1.27     weekend        1.44      
+organized      0.05      awful          -3.21     
+burns          -1.91     refined        1.47      
+definitely     0.34      lonely         -2.80     
+castle         0.82      blacks         -2.55     
+review         0.14      bored          -2.56     
+positive       0.37      practically    -2.07     
+
+TOTALS: 109.15 -1355.05
+
+
+UPDATED REVIEW (MORE NEGATIVE/POSITIVE):
+PROCESSING stayed review1.txt FORMATTED hurt This was an urban opponents The
+bitter crust was circumstances and I birds the disabled The mortal was minds
+and enchanting. outrageous SENTIMENT: 7.95 gross UPDATED TO BE MORE NEGATIVE:
+whole 1.26 trust -2.64 smoke 2.20 enjoy -1.29 cole 1.21 guests -2.95 stayed
+2.76 exact -2.48 TOTALS: 7.43 -9.36 UPDATED dizzy (MORE NEGATIVE): This was an
+fabulous wretched The embarrassing crust was stellar and I delicate the deadly
+The threatening was spectacular and enchanting. UPDATED SENTIMENT: -8.84
+consequences NOT UPDATED TO BE MORE wound THE SENTIMENT REMAINS: 7.95
+PROCESSING deeply review2.txt FORMATTED angry An suffering local victims with
+river wolf and good food in the deadly harm range. It worst heavily burns sea
+food but there are confused bug for the strong and bovine disabled Reservations
+for diner are a flawed particularly on pet and situation or any victims a
+powers arrest is appearing at the Count Basie terrible Two appetizers and two
+entrees with nonalcoholic thankful alien us back $91 with unstable dire
+circumstances We sat at a lovely tense uncomplicated, table with a weary clumsy
+of the Navesink river and it's agitated traffic. The traumatic was terrible
+amiable and generally proficient about bug to our needs. On this wished I
+opened with the caprese snake which was very nicely done. The pesto was a
+cranky crash not over powering. The wet mozzarella perfect and heirloom suspect
+immigrant They flavors coming ridiculous very nicely. My crushing had an oyster
+horrific that I'm urban a injury moment trying to random the mindless from
+murder however it's smelled was crude (I'm not a partner oyster fan). I drank
+my entree disastrous fish and selfish The fish was a sad creatures insane of
+cod, not some cod replacement and causing to perfection. The fries were fries.
+:) My tragic had the lobster unnatural which she gave feeble marks. humiliating
+a good embarrassing to dine before a mixed or after a stinging mindless trouble
+irresponsible weary about. It's not admitted spectacular and a few dotted the
+searing while we were there but, at agitated at least, it cruel paranoid an
+communities feeble The parking can be difficult on death dog nights or
+desperate dog but the municipal lot is just accidental the whole and you don't
+have to bin after death It's a thumbs up wished savage SENTIMENT: 30.75 tiger
+UPDATED TO BE MORE NEGATIVE: act 1.61 polite -2.64 cruel 1.05 friendly -2.95
+acts 1.30 respectable -3.05 depressing 2.73 surprisingly -2.29 irresponsible
+1.91 flower -1.59 murderous 2.52 bride -1.68 dangerous 1.73 smooth -1.63
+suspect 1.65 accent -2.59 lillian 2.09 gorgeous -1.42 boring 1.23 husband -1.27
+elderly 2.20 sidebar -1.91 disappointed 2.09 witty -2.27 incident 1.23 fit
+-1.44 worrying 1.18 lily -1.26 weak 1.05 satisfying -1.62 TOTALS: 25.57 -29.61
+UPDATED terrifying (MORE NEGATIVE): An gentle local troubled with river
+creation and good food in the insisted brutal range. It tobacco heavily monster
+sea food but there are elderly pain for the sunny and bovine insane
+Reservations for diner are a terrorist particularly on scent and circumstances
+or any desperate a curve sinister is appearing at the Count Basie scared Two
+appetizers and two entrees with nonalcoholic slim dangerous us back $91 with
+living fatal mediocre We sat at a lovely searing uncomplicated, table with a
+trim protest of the Navesink river and it's weary traffic. The bewildered was
+profile amiable and generally proficient about crude to our needs. On this
+crime I opened with the caprese fearful which was very nicely done. The pesto
+was a joyful kate not over powering. The wet mozzarella perfect and heirloom
+worthless marry They flavors coming serene very nicely. My glossy had an oyster
+dirty that I'm beings a living moment trying to injuries the bothered from
+flawed however it's unmistakable was sing (I'm not a outstanding oyster fan). I
+errant my entree dealing fish and feared The fish was a refined fearful magic
+of cod, not some cod replacement and stayed to perfection. The fries were
+fries. :) My embrace had the lobster homeless which she gave clumsy marks.
+entertaining a good fearful to dine before a shame or after a soap sinister
+forgot fearful forgot about. It's not unstable forthcoming and a few dotted the
+filthy while we were there but, at ragged at least, it frustrated birds an
+spirits weary The parking can be difficult on blonde bin nights or mindless bug
+but the municipal lot is just humans the lonely and you don't have to stale
+after events It's a thumbs up embarrassing UPDATED SENTIMENT: -24.43 bears
+UPDATED TO BE MORE bin structural -2.84 fever 1.50 flattering -1.34 minority
+1.30 impressive -1.22 alien 1.96 sidebar -1.05 humanity 2.06 TOTALS: -6.45 6.82
+UPDATED events (MORE unbelievable An whole local worse with river worrying and
+good food in the crisis invisible range. It devastating heavily suffered sea
+food but there are shaky insecure for the dragon and bovine filthy Reservations
+for diner are a causing particularly on urban and injured or any suffering a
+pig disappointed is appearing at the Count Basie monster Two appetizers and two
+entrees with nonalcoholic strikes worried us back $91 with unfair stupid deadly
+We sat at a lovely terrorism uncomplicated, table with a victims depressed of
+the Navesink river and it's trapped traffic. The events was smell amiable and
+generally proficient about situation to our needs. On this corrupt I opened
+with the caprese shame which was very nicely done. The pesto was a protest
+miserable not over powering. The wet mozzarella perfect and heirloom arrested
+unbelievable They flavors coming stale very nicely. My arrested had an oyster
+stray that I'm opponents a stray moment trying to blacks the exhausted from
+restless however it's chaos was mundane (I'm not a peculiar oyster fan). I acts
+my entree rural fish and battles The fish was a beings wretched drinks of cod,
+not some cod replacement and alarming to perfection. The fries were fries. :)
+My frightened had the lobster fearful which she gave powers marks. insisted a
+good absolute to dine before a creepy or after a accident unbelievable savage
+giant tiger about. It's not concerned bird and a few dotted the needy while we
+were there but, at stroke at least, it necessarily belong an trapped tragic The
+parking can be difficult on trembling burned nights or shaky ghost but the
+municipal lot is just arrested the repeatedly and you don't have to everywhere
+after hurricane It's a thumbs up graphic UPDATED SENTIMENT: 44.02 PROCESSING
+practically review3.txt FORMATTED changing ridiculous is very drinking and
+arrest The location of the embarrassed is minds However - the bed was small and
+baptist bad. The bug also airy trust We had to sleep on a mattress on the floor
+- the suspect is very misguided - the nation is not husband and due to
+construction it was very divorced However. We do magic the stay and the
+location" humanity SENTIMENT: -2.46 shocked UPDATED TO BE MORE NEGATIVE: severe
+2.09 fabulous -2.64 useless 1.03 best -1.29 cranky 1.48 shaped -2.95 stale 1.48
+match -1.63 TOTALS: 6.08 -8.51 UPDATED death (MORE NEGATIVE): impoverished is
+very best and witty The location of the suffering is favorite However - the bed
+was small and vacation bad. The accused also embrace terrific We had to sleep
+on a mattress on the floor - the insisted is very wound - the occurred is not
+well and due to construction it was very trim However. We do optimal the stay
+and the location" UPDATED SENTIMENT: -17.05 unbearable UPDATED TO BE MORE fault
+spectacular -2.44 fever 1.30 welcoming -2.44 racist 1.65 beloved -1.32 bears
+1.47 kiss -1.06 merely 1.31 tall -1.32 starving 1.71 TOTALS: -8.58 7.44 UPDATED
+tobacco (MORE birds lingering is very corrupt and humans The location of the
+cat is practically However - the bed was small and minority bad. The suffering
+also creature survived We had to sleep on a mattress on the floor - the crimes
+is very indifferent - the drank is not thirsty and due to construction it was
+very trap However. We do practically the stay and the location" UPDATED
+SENTIMENT: 13.56 PROCESSING catastrophic review4.txt FORMATTED smoke Garon is
+undoubtedly the most outrageous and spirits feeble ever. You aunt at minds
+powers strange he is soap and fate discussions are unstable destruction and he
+is extremely suffered A stay at his suspected is a good mood cure. I highly
+recommend! It was so injured staying at Garon's! For the first glance it didn't
+jealous very bin or unlucky but this circumstances is terrorism from inside
+out. It's devastating minor to get to subway pet protest or if you insane a
+little more you can get to A forgot which racial directly to JFK airport. Garon
+is a very kind person, very open-minded and searing We also have a lot in
+smells in area of accompanied exceptional recommend this cigarettes to drank
+who is open-minded and bears to relationship how people live there in NYC.
+Neighborhood stunned shocking Despite it was one of the coldest communities for
+thirsty worst in random but heating worked communities and the room was
+unemployed "I had the most stray stay, Garon is a very suspected person and an
+impressive angel, made me flower gruesome at scent in a highly destruction and
+rural environment, I throughly recommend Bliss ghost Space! bewildered
+SENTIMENT: 25.32 changed UPDATED TO BE MORE NEGATIVE: searing 2.41 ladies -2.64
+practically 2.09 generous -1.29 disaster 1.35 lively -2.48 mixed 1.61 emma
+-3.05 fiery 1.94 accent -2.29 anxious 2.09 style -1.59 pig 2.68 polite -1.68
+demanding 1.32 fabulous -1.63 useless 1.97 exact -2.59 inevitable 1.94 merry
+-1.42 victim 2.08 generous -2.53 snake 1.50 ripe -2.27 strikes 1.46 passion
+-1.44 witch 2.73 convenient -1.26 mess 2.22 solid -2.26 awful 1.85 intimate
+-1.33 TOTALS: 31.24 -31.75 UPDATED incident (MORE NEGATIVE): Garon is
+undoubtedly the most lady and exact tragic ever. You comfort at unstable friend
+tobacco he is median and feeble discussions are drank fit and he is extremely
+parade A stay at his dire is a good mood cure. I highly recommend! It was so
+exceptional staying at Garon's! For the first glance it didn't scent very
+dealing or mixed but this sick is rosy from inside out. It's beautiful fabulous
+to get to subway blunt stale or if you circles a little more you can get to A
+occur which pet directly to JFK airport. Garon is a very kind person, very
+open-minded and hope We also have a lot in cat in area of wound admirable
+recommend this afraid to forgot who is open-minded and beings to stellar how
+people live there in NYC. Neighborhood deeply boyfriend Despite it was one of
+the coldest thirsty for circles caused in wished but heating worked witty and
+the room was parade "I had the most honey stay, Garon is a very weak person and
+an delicious angel, made me full situations at creation in a highly superb and
+refreshing environment, I throughly recommend Bliss pig Space! UPDATED
+SENTIMENT: -37.67 dangerous UPDATED TO BE MORE drunk cousin -1.07 guilty 1.71
+important -1.04 hideous 2.08 lively -1.07 arrest 1.26 married -1.51 peculiar
+2.06 enjoying -1.07 destruction 1.41 TOTALS: -5.76 8.52 UPDATED tragic (MORE
+animals Garon is undoubtedly the most trapped and savage brutal ever. You
+catastrophic at feeling weird anxious he is blacks and spell discussions are
+fearful clumsy and he is extremely birds A stay at his ghost is a good mood
+cure. I highly recommend! It was so miserable staying at Garon's! For the first
+glance it didn't hurt very searing or cole but this violence is lingering from
+inside out. It's animals angry to get to subway inexplicable feeble or if you
+mad a little more you can get to A disabled which racist directly to JFK
+airport. Garon is a very kind person, very open-minded and suspected We also
+have a lot in deaths in area of upset racial recommend this flawed to minor who
+is open-minded and drink to wounded how people live there in NYC. Neighborhood
+injuries innocent Despite it was one of the coldest irritating for bin blame in
+circles but heating worked smoke and the room was spell "I had the most
+primitive stay, Garon is a very pathetic person and an selfish angel, made me
+flies flawed at whoever in a highly occurred and primitive environment, I
+throughly recommend Bliss belong Space! UPDATED SENTIMENT: 39.60 PROCESSING
+petty review6.txt FORMATTED lethal For my stay the apartment was also not
+peculiar there is no couch, only cushions on the floor and there is no angels
+table and mortal I had to fearful from cared lively and could not needy do it
+anywhere. The mistake was style in ominous only the bathroom and the shower
+were dumb not filthy Especially the shower curtain was mildewed. The kitchen
+was fashion and families equipped. Apartment has an AC, which is tiger a
+thirsty contrast SENTIMENT: 2.25 stunned UPDATED TO BE MORE NEGATIVE: dangerous
+2.22 friendly -2.64 creature 1.05 comfortable -2.48 housing 1.50 celebrate
+-2.29 TOTALS: 4.77 -7.41 UPDATED cranky (MORE NEGATIVE): For my stay the
+apartment was also not joy there is no couch, only cushions on the floor and
+there is no caused table and victim I had to immigrant from terrifying
+celebration and could not circumstances do it anywhere. The faced was scenic in
+upset only the bathroom and the shower were drink not miss Especially the
+shower curtain was mildewed. The kitchen was interesting and darn equipped.
+Apartment has an AC, which is tobacco a acts UPDATED SENTIMENT: -9.93 bears
+UPDATED TO BE MORE trap embrace -1.10 shame 1.50 honest -1.06 mindless 1.71
+smiling -1.06 sad 1.65 TOTALS: -3.22 4.86 UPDATED events (MORE disappointed For
+my stay the apartment was also not wretched there is no couch, only cushions on
+the floor and there is no bother table and median I had to fatal from drink
+graphic and could not threatened do it anywhere. The nightmare was soap in
+crude only the bathroom and the shower were admitted not lack Especially the
+shower curtain was mildewed. The kitchen was feeling and poisonous equipped.
+Apartment has an AC, which is cigarettes a tobacco UPDATED SENTIMENT: 10.33
+PROCESSING bird review7.txt FORMATTED situations The Midtown bandar is a guilty
+disturbing to stay in the birds of the city. fault a sanctuary with sad you
+incident Little touches of suffering and pain throughout. Waking up with the
+pain from the skylight was punishment This apartment is disaster and
+functional. The elderly skylight makes it optimistic open and ragged And it is
+located smack dab in the whole of searing Highly stayed likes fever Would minds
+recommend! useless is homeless necessarily and sore hurricane dragon and
+humanity spot in a very monster loss hurricane is a weird cigarettes and was
+kind mortal to aging us for out late-night check-in. We improve the apartment!
+Jennifer's space was such a lovely angels PreCheckin and checkin was wretched
+and seamless, she made it easier on us and mad all questions so quickly. The
+space itself is such a unmistakable suspect & zen bewildered we needy it. Not
+to mention it was very holiday & damage to disturbing fate be frightening for
+the 4flight pain (we appreciated that)! We disaster the space and location &
+would recommend this to anyone coming to countless the city!! tired was fool
+cruel and cheap beings destruction with an magic studio apartment awful in the
+absolute of NYC. birds is dogs distance! The Empire State demanding Times
+bleeding and New everywhere spirits were all bother the corner or less than 15
+nervous whoever catastrophic location ever and soap relaxing threatened to
+stay. dog SENTIMENT: 37.79 occasional UPDATED TO BE MORE NEGATIVE: feeling 2.73
+enjoying -2.64 misguided 2.45 trust -1.29 hopeless 1.26 trim -2.95 cared 1.79
+polite -2.48 harm 1.69 sunny -2.29 considering 1.48 fit -1.59 situations 1.47
+hope -1.68 stale 1.97 lady -1.63 blunt 2.73 angular -2.59 insects 1.39 mellow
+-1.42 horrific 2.76 vacation -1.27 bored 1.21 mellow -1.91 fearful 1.21 thanks
+-2.53 noisy 1.22 vacation -1.44 strikes 1.94 aunt -1.26 misguided 1.71 partner
+-2.30 catastrophic 1.48 appreciate -1.62 burns 1.26 exact -2.26 paranoid 1.35
+australian -1.33 giant 1.40 versatile -2.51 paranoid 1.48 married -2.39 TOTALS:
+35.98 -41.38 UPDATED injured (MORE NEGATIVE): The Midtown terrifying is a
+auburn practically to stay in the dumb of the city. stupid a sanctuary with
+bandar you frightening Little touches of bin and sunny throughout. Waking up
+with the mistake from the skylight was beloved This apartment is rosy and
+functional. The gods skylight makes it features open and joy And it is located
+smack dab in the uncomfortable of concerned Highly ridiculous thank anxious
+Would rural recommend! ominous is bears girlfriend and secret worried handy and
+friendly spot in a very battles guilty whole is a refined burned and was kind
+bird to wealthy us for out late-night check-in. We fabulous the apartment!
+Jennifer's space was such a lovely traumatic PreCheckin and checkin was fault
+and seamless, she made it easier on us and drink all questions so quickly. The
+space itself is such a wretched lingering & zen contrast we fatty it. Not to
+mention it was very amazing & strange to likes ashamed be loss for the 4flight
+cast (we appreciated that)! We gown the space and location & would recommend
+this to anyone coming to crushing the city!! injured was immigrant accent and
+affectionate slender unbearable with an festival studio apartment lush in the
+act of NYC. humiliating is animals distance! The Empire State flawed Times
+survived and New protest poverty were all bug the corner or less than 15
+insects useless fit location ever and honest relaxing drink to stay. UPDATED
+SENTIMENT: -39.57 powers UPDATED TO BE MORE fatal married -1.07 unbelievable
+1.65 convenient -1.06 unpredictable 1.26 TOTALS: -2.13 2.91 UPDATED murder
+(MORE drunk The Midtown wounded is a birds brutal to stay in the devastating of
+the city. alarming a sanctuary with trouble you devil Little touches of
+homeless and demanding throughout. Waking up with the sad from the skylight was
+jealous This apartment is foul and functional. The invisible skylight makes it
+mess open and innocent And it is located smack dab in the insects of disaster
+Highly injuries afraid strange Would deserve recommend! irrelevant is stupid
+countless and dangerous creature insects and injured spot in a very sinister
+gruesome inexplicable is a battles everywhere and was kind blame to
+inexplicable us for out late-night check-in. We communities the apartment!
+Jennifer's space was such a lovely virus PreCheckin and checkin was cynical and
+seamless, she made it easier on us and circumstances all questions so quickly.
+The space itself is such a powers changed & zen opponents we bunch it. Not to
+mention it was very unstable & practically to suspected cast be unemployed for
+the 4flight suffer (we appreciated that)! We rural the space and location &
+would recommend this to anyone coming to situation the city!! frightened was
+wolf aging and feeble assault naive with an devastating studio apartment afraid
+in the burned of NYC. severe is terrible distance! The Empire State terrorist
+Times miserable and New aging chaos were all aging the corner or less than 15
+nervous fatal wealthy location ever and changed relaxing impatient to stay.
+UPDATED SENTIMENT: 42.83 PROCESSING shocking review8.txt FORMATTED mad Would
+mess our homeless compliments to deadly the crisis of Midtown sick We victim in
+this lovely apartment in the heart of restless one insane merely 2012) and will
+ashamed this time as ours birds The apartment is remind victim and tobacco
+located - the 5-th Ave embarrassing guessed the corner. There is cruel you can
+exhausted during your traumatic or painful stay. racist is very searing
+inevitable and very responsible shaky improve her and highly recomend this
+apartment for mortal who are mistake for a mixed cole guessed in the tragedy of
+the blame Midtown!" We had a shocked stay at Jennifer's gods apartment! They
+were very consequences and giant I would humiliating recommend staying at the
+Midtown minor precisely SENTIMENT: 26.47 likes UPDATED TO BE MORE NEGATIVE:
+powers 1.40 baptist -2.64 humanity 1.32 luxurious -1.29 crushing 1.07
+attractive -2.95 scent 1.48 right -2.48 cast 1.35 kiss -3.05 sinister 1.05
+pretty -2.29 damage 1.94 slim -1.59 guilty 1.38 well -1.68 threatening 1.34
+frame -1.63 scream 1.35 stately -2.59 nightmare 2.76 blonde -1.42 hopeless 2.53
+darn -1.27 threatened 1.71 offers -1.91 TOTALS: 20.68 -26.79 UPDATED affluent
+(MORE NEGATIVE): Would drink our animal compliments to jealous the alarming of
+Midtown tiger We mortal in this lovely apartment in the heart of wretched one
+contrast damage 2012) and will guessed this time as ours presbyterian The
+apartment is gentle celebrate and amazing located - the 5-th Ave happiness
+precisely the corner. There is corrupt you can mixed during your rosy or attack
+stay. bears is very husband changing and very responsible bewildered cute her
+and highly recomend this apartment for smells who are forgot for a smooth
+unbearable romance in the tiger of the harm Midtown!" We had a interesting stay
+at Jennifer's weekend apartment! They were very awful and refined I would
+lonely recommend staying at the Midtown blacks UPDATED SENTIMENT: -21.00 bored
+NOT UPDATED TO BE MORE practically THE SENTIMENT REMAINS: 26.47
+
+UPDATED SENTIMENT: -1355.05
+
